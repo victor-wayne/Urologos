@@ -75,7 +75,7 @@
 
     <div class="carousel-inner" role="listbox">
         <div class="item active">
-            <img class="img-responsive" src="{{asset('img/1920x1080/01.jpg')}}" alt="Slider Image">
+            <img class="img-responsive" src="{{asset('img/1920x1080/urologia.jpeg')}}" alt="Slider Image">
             <div class="container">
                 <div class="carousel-centered">
                     <div class="margin-b-40">
@@ -93,7 +93,7 @@
                     <div class="margin-b-40">
                         <h2 class="carousel-title"></h2>
                         <p class="color-white"> <br/> </p>
-                    </div>
+                    </div><br><br><br><br>
                     <a href="#" class="btn-theme btn-theme-sm btn-white-brd text-uppercase">WhatsApp</a>
                 </div>
             </div>
@@ -216,7 +216,7 @@
             <!-- Latest Products -->
             <div class="col-sm-4 sm-margin-b-50">
                 <div class="margin-b-20">
-                    <img class="img-responsive" src="{{ asset('img/970x647/01.jpg') }}" alt="Latest Products Image">
+                    <img class="img-responsive" src="{{ asset('img/970x647/pr.jpeg') }}" alt="Latest Products Image">
                 </div>
                 <h4><a href="#">Interior</a> <span class="text-uppercase margin-l-20">Architecture</span></h4>
                 <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed tempor incdidunt ut laboret dolor magna ut consequat siad esqudiat dolor</p>
@@ -227,7 +227,7 @@
             <!-- Latest Products -->
             <div class="col-sm-4 sm-margin-b-50">
                 <div class="margin-b-20">
-                    <img class="img-responsive" src="{{ asset('img/970x647/02.jpg') }}" alt="Latest Products Image">
+                    <img class="img-responsive" src="{{ asset('img/970x647/pr.jpeg') }}" alt="Latest Products Image">
                 </div>
                 <h4><a href="#">Trend</a> <span class="text-uppercase margin-l-20">Setting</span></h4>
                 <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed tempor incdidunt ut laboret dolor magna ut consequat siad esqudiat dolor</p>
@@ -238,7 +238,7 @@
             <!-- Latest Products -->
             <div class="col-sm-4 sm-margin-b-50">
                 <div class="margin-b-20">
-                    <img class="img-responsive" src="{{ asset('img/970x647/03.jpg') }}" alt="Latest Products Image">
+                    <img class="img-responsive" src="{{ asset('img/970x647/pr.jpeg') }}" alt="Latest Products Image">
                 </div>
                 <h4><a href="#">Fresh Style</a> <span class="text-uppercase margin-l-20">Philosophy</span></h4>
                 <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed tempor incdidunt ut laboret dolor magna ut consequat siad esqudiat dolor</p>

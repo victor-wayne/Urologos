@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ec38092c-2854-4fa9-a7fb-8a59fbfd07b8" name="Default Changelist" comment="" />
+    <list default="true" id="ec38092c-2854-4fa9-a7fb-8a59fbfd07b8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/resources/views/urologos/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/urologos/index.blade.php" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,18 +36,13 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resources/views/urologos/index.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1729">
-              <caret line="84" column="100" selection-start-line="84" selection-start-column="100" selection-end-line="84" selection-end-column="100" />
+            <state relative-caret-position="543">
+              <caret line="240" column="81" selection-start-line="240" selection-start-column="81" selection-end-line="240" selection-end-column="81" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/public/img/970x647/01.jpg">
-          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -244,6 +241,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/public/img/1920x1080" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -291,7 +289,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2993000" />
+    <option name="totallyTimeSpent" value="2996000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="37" y="38" width="1403" height="858" extended-state="0" />
@@ -355,8 +353,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/urologos/index.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1729">
-          <caret line="84" column="100" selection-start-line="84" selection-start-column="100" selection-end-line="84" selection-end-column="100" />
+        <state relative-caret-position="543">
+          <caret line="240" column="81" selection-start-line="240" selection-start-column="81" selection-end-line="240" selection-end-column="81" />
         </state>
       </provider>
     </entry>
