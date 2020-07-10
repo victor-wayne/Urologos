@@ -17,3 +17,19 @@ Route::get('/', [
     'as' => 'home',
     'uses' => 'UrologosController@index'
 ]);
+
+
+Route::get('/nosotros', [
+    'as' => 'nosotros',
+    'uses' => 'NosotrosController@index'
+]);
+
+Route::get('/staff-medico', [
+    'as' => 'staff',
+    'uses' => 'StaffController@index'
+]);
+
+Route::get('/nuestros-servicios', [
+    'as' => 'servicios',
+    'uses' => 'ServiciosController@index'
+]);

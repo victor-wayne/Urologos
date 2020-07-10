@@ -4,7 +4,7 @@
 
 <head>
     <meta charset="utf-8"/>
-    <title>FlameOnePage Free Template by FairTech</title>
+    <title>INTEGRAUROBAJ</title>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta content="width=device-width, initial-scale=1" name="viewport"/>
     <meta content="FlameOnePage freebie theme for web startups by FairTech SEO." name="description"/>
@@ -51,13 +51,12 @@
 
                 <div class="menu-container">
                     <ul class="nav navbar-nav navbar-nav-right">
-                        <li class="js_nav-item nav-item"><a class="nav-item-child nav-item-hover" href="#body">Home</a></li>
-                        <li class="js_nav-item nav-item"><a class="nav-item-child nav-item-hover" href="#about">Team</a></li>
-                        <li class="js_nav-item nav-item"><a class="nav-item-child nav-item-hover" href="#services">Services</a></li>
-                        <li class="js_nav-item nav-item"><a class="nav-item-child nav-item-hover" href="#products">Products</a></li>
-                        <li class="js_nav-item nav-item"><a class="nav-item-child nav-item-hover" href="#work">Credentials</a></li>
-                        <li class="js_nav-item nav-item"><a class="nav-item-child nav-item-hover" href="#pricing">Pricing</a></li>
-                        <li class="js_nav-item nav-item"><a class="nav-item-child nav-item-hover" href="#contact">Contact</a></li>
+                        <li class="js_nav-item nav-item"><a class="nav-item-child nav-item-hover" href="{{ route('home') }}">Inicio</a></li>
+                        <li class="js_nav-item nav-item"><a class="nav-item-child nav-item-hover" href="{{ route('nosotros') }}">Nosotros</a></li>
+                        <li class="js_nav-item nav-item"><a class="nav-item-child nav-item-hover" href="{{ route('staff') }}">Staff Médico</a></li>
+                        <li class="js_nav-item nav-item"><a class="nav-item-child nav-item-hover" href="{{ route('servicios') }}">Servicios</a></li>
+                        <li class="js_nav-item nav-item"><a class="nav-item-child nav-item-hover" href="#work">Contacto</a></li>
+
                     </ul>
                 </div>
             </div>
@@ -79,10 +78,10 @@
             <div class="container">
                 <div class="carousel-centered">
                     <div class="margin-b-40">
-                        <h1 class="carousel-title">Hi-End Solutions</h1>
+                        <h1 class="carousel-title">INTEGRAUROBAJ</h1>
                         <p class="color-white">Lorem ipsum dolor amet consectetur adipiscing dolore magna aliqua <br/> enim minim estudiat veniam siad venumus dolore</p>
                     </div>
-                    <a href="#" class="btn-theme btn-theme-sm btn-white-brd text-uppercase">WhatsApp</a>
+                    <a href="https://api.whatsapp.com/send?phone=524612541789&text=Hola INTEGRAUROBAJ me interesan tus servicios " class="btn-theme btn-theme-sm btn-white-brd text-uppercase">WhatsApp</a>
                 </div>
             </div>
         </div>
@@ -94,7 +93,7 @@
                         <h2 class="carousel-title"></h2>
                         <p class="color-white"> <br/> </p>
                     </div><br><br><br><br>
-                    <a href="#" class="btn-theme btn-theme-sm btn-white-brd text-uppercase">WhatsApp</a>
+                    <a href="https://api.whatsapp.com/send?phone=524612541789&text=Hola INTEGRAUROBAJ me interesan tus servicios " class="btn-theme btn-theme-sm btn-white-brd text-uppercase">WhatsApp</a>
                 </div>
             </div>
         </div>
