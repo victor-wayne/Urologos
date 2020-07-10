@@ -16,7 +16,8 @@
     <link href="{{ asset('css/animate.css') }}" rel="stylesheet">
     <link href="{{ asset('vendor/swiper/css/swiper.min.css') }}" rel="stylesheet" type="text/css"/>
     <link href="{{ asset('css/layout.min.css') }}" rel="stylesheet" type="text/css"/>
-    <link rel="shortcut icon" href="favicon.ico"/>
+    <link rel="icon" href="{{ asset('img/logo-integraurobaj.png') }}" type="image/png" />
+
 </head>
 
 
@@ -33,8 +34,8 @@
 
                 <div class="logo">
                     <a class="logo-wrap" href="#body">
-                        <img class="logo-img logo-img-main" src="{{ asset('img/logo.png') }}" alt="FlameOnePage Logo">
-                        <img class="logo-img logo-img-active" src="{{ asset('img/logo-dark.png') }}" alt="FlameOnePage Dark Logo">
+                        <img class="logo-img logo-img-main" src="{{ asset('img/logo-integraurobaj.png') }}" alt="FlameOnePage Logo">
+                        <img class="logo-img logo-img-active" src="{{ asset('img/logo-integraurobaj.png') }}" alt="FlameOnePage Dark Logo">
                     </a>
                 </div>
             </div>
@@ -205,7 +206,7 @@
     <div class="content-lg container">
         <div class="row margin-b-40">
             <div class="col-sm-6">
-                <h2>Recent Projects</h2>
+                <h2>Servicios</h2>
                 <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed tempor incididunt ut laboret dolore magna aliqua enim minim veniam exercitation</p>
             </div>
         </div>
@@ -226,10 +227,12 @@
             <!-- Latest Products -->
             <div class="col-sm-4 sm-margin-b-50">
                 <div class="margin-b-20">
-                    <img class="img-responsive" src="{{ asset('img/970x647/pr.jpeg') }}" alt="Latest Products Image">
+                    <img class="img-responsive" src="{{ asset('img/970x647/reconstruccion-uretra.jpg') }}" alt="reconstruccion-uretra">
                 </div>
-                <h4><a href="#">Trend</a> <span class="text-uppercase margin-l-20">Setting</span></h4>
-                <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed tempor incdidunt ut laboret dolor magna ut consequat siad esqudiat dolor</p>
+                <h4><a href="#">Reconstruccion de la Uretra</a> <span class="text-uppercase margin-l-20">Setting</span></h4>
+                <p align="justify">Nos encargamos de reparar de forma quirúrgica trastornos
+                    congénitos o adquiridos de los órganos del sistema genitourinario tanto en hombres y
+                    mujeres devolviéndoles la función y calidad de vida usando la más alta tecnología.</p>
                 <a class="link" href="#">Details</a>
             </div>
             <!-- End Latest Products -->
@@ -237,13 +240,25 @@
             <!-- Latest Products -->
             <div class="col-sm-4 sm-margin-b-50">
                 <div class="margin-b-20">
-                    <img class="img-responsive" src="{{ asset('img/970x647/pr.jpeg') }}" alt="Latest Products Image">
+                    <img class="img-responsive" src="{{ asset('img/970x647/endurologia.jpg') }}" alt="endurologia">
                 </div>
-                <h4><a href="#">Fresh Style</a> <span class="text-uppercase margin-l-20">Philosophy</span></h4>
-                <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed tempor incdidunt ut laboret dolor magna ut consequat siad esqudiat dolor</p>
+                <h4><a href="#">Endurologia</a> <span class="text-uppercase margin-l-20">Philosophy</span></h4>
+                <p align="justify">Es una técnica de mínima invasión con la cual podemos tratar
+                    enfermedades del tracto urinario vía endoscópica, desde la uretra hasta el riñón.</p>
                 <a class="link" href="#">Details</a>
             </div>
             <!-- End Latest Products -->
+            <br>
+
+            <div class="col-sm-4 sm-margin-b-50">
+                <div class="margin-b-20">
+                    <img class="img-responsive" src="{{ asset('img/970x647/endoscopia.jpg') }}" alt="endoscopia">
+                </div>
+                <h4><a href="#">Endoscopia</a> <span class="text-uppercase margin-l-20">Philosophy</span></h4>
+                <p align="justify">Usando la mejor tecnología para brindarte una pronta
+                    recuperación.</p>
+                <a class="link" href="#">Details</a>
+            </div>
         </div>
         <!--// end row -->
     </div>
