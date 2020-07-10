@@ -15,22 +15,22 @@
                         <div class="col-lg-7 left">
                             <h3>Contactanos</h3>
 
-                            <form id="fContacto">
+                            <form id="fContacto" name="fContacto">
                                 <div class="row">
                                     <div class="col-sm-12">
-                                        <input type="text" class="form-control" placeholder="Nombre Completo">
+                                        <input type="text" id="iNombre" name="iNombre" class="form-control required" placeholder="Nombre Completo">
                                     </div>
                                     <div class="col-sm-6">
-                                        <input type="email" class="form-control" placeholder="Correo Electronico">
+                                        <input type="email" id="iEmail" name="iEmail" class="form-control required" placeholder="Correo Electronico">
                                     </div>
                                     <div class="col-sm-6">
-                                        <input type="text" class="form-control" placeholder="Telefono">
+                                        <input type="text" id="iTelefono" name="iTelefono" class="form-control " placeholder="Telefono">
                                     </div>
                                 </div>
                                 <div class="form-group">
-                                    <textarea class="form-control" rows="10" id="comment" placeholder="Mensaje"></textarea>
+                                    <textarea class="form-control required"  rows="10" id="iComentario" name="iComentario" placeholder="Mensaje"></textarea>
                                 </div>
-                                <button class="btn btn-block" type="submit">Envar ahora!</button>
+                                <button class="btn btn-block"  type="submit">Envar ahora!</button>
                             </form>
                         </div>
                         <!-- Left -->
@@ -137,6 +137,8 @@
 <script src="{{ asset('js/components/swiper.min.js') }}" type="text/javascript"></script>
 <script src="{{ asset('js/components/masonry.min.js') }}" type="text/javascript"></script>
 
+<script src="{{ asset('js/validate/jquery.validate.js') }}" type="text/javascript"></script>
+
 <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
 
 
@@ -145,11 +147,22 @@
     
 
     $("#fContacto").submit(function(e){
+        e.preventDefault();
+
+            let bandera = validarFormulario();
+            if(bandera){
+                let nombre = document.getElementById("iNombre");
+                let email = document.getElementById("iEmail");
+                let tel = document.getElementById("iTelefono");
+                let mess = document.getElementById("iComentario");
+
             let form = new FormData();
-            form.append("id", "2");
+            form.append('nombre',nombre.value);
+            form.append('email',email.value);
+            form.append('telefono',tel.value);
+            form.append('mensaje',mess.value);
             form.append('_token','{{csrf_token()}}');
-            
-            e.preventDefault();
+                
 
             var settings = {
             "url": "{{ route('contacto_send') }}",
@@ -160,15 +173,30 @@
             "data": form
             };
             $.ajax(settings).done(function (response) {
-                swal("Genial!", "Correo Enviado!", "success");
-                console.log(response);
+                if(response.status==200){
+                    swal("Genial!", ""+response.mensaje, "success");
+                }
+                else{
+                    swal("Error!", ""+response.mensaje, "error");
+                }
+                
+                
+
             });
+            }
+            else {
+                swal("Error", "Completa los campos faltantes", "error");
+            }
 
     });
 
+    function validarFormulario(){
+        jQuery.validator.messages.required = 'Esta campo es obligatorio.';
 
+         return  $("#fContacto").valid();
+       }
 
-
+   
 
 
 </script>
