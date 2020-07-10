@@ -33,3 +33,13 @@ Route::get('/nuestros-servicios', [
     'as' => 'servicios',
     'uses' => 'ServiciosController@index'
 ]);
+
+Route::get('/contacto', [
+    'as' => 'contacto',
+    'uses' => 'ContactoController@index'
+]);
+
+Route::post('/contacto/send-email', [
+    'as' => 'contacto_send',
+    'uses' => 'ContactoController@enviarCorreo'
+]);

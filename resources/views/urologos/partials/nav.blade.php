@@ -16,13 +16,14 @@
     <link href="{{ asset('css/animate.css') }}" rel="stylesheet">
     <link href="{{ asset('vendor/swiper/css/swiper.min.css') }}" rel="stylesheet" type="text/css"/>
     <link href="{{ asset('css/layout.min.css') }}" rel="stylesheet" type="text/css"/>
+    <link href="{{ asset('css/contacto.css') }}" rel="stylesheet" type="text/css"/>
     <link rel="shortcut icon" href="favicon.ico"/>
 </head>
 
 
-<body id="body" data-spy="scroll" data-target=".header">
+<body id="body" data-spy="scroll" data-target=".header" class="page-on-scroll">
 
-<header class="header navbar-fixed-top">
+<header class="header navbar-fixed-top to-nav-collapse">
     <nav class="navbar" role="navigation">
         <div class="container">
             <div class="menu-container js_nav-item">
@@ -55,7 +56,7 @@
                         <li class="js_nav-item nav-item"><a class="nav-item-child nav-item-hover" href="{{ route('nosotros') }}">Nosotros</a></li>
                         <li class="js_nav-item nav-item"><a class="nav-item-child nav-item-hover" href="{{ route('staff') }}">Staff Médico</a></li>
                         <li class="js_nav-item nav-item"><a class="nav-item-child nav-item-hover" href="{{ route('servicios') }}">Servicios</a></li>
-                        <li class="js_nav-item nav-item"><a class="nav-item-child nav-item-hover" href="#work">Contacto</a></li>
+                        <li class="js_nav-item nav-item"><a class="nav-item-child nav-item-hover" href="{{ route('contacto') }}">Contacto</a></li>
 
                     </ul>
                 </div>
