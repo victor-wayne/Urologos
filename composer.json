@@ -13,7 +13,9 @@
         "fruitcake/laravel-cors": "^1.0",
         "guzzlehttp/guzzle": "^6.3",
         "laravel/framework": "^7.0",
-        "laravel/tinker": "^2.0"
+        "laravel/tinker": "^2.0",
+        "league/oauth2-google": "^3.0",
+        "phpmailer/phpmailer": "^6.1"
     },
     "require-dev": {
         "facade/ignition": "^2.0",
@@ -25,7 +27,8 @@
     "config": {
         "optimize-autoloader": true,
         "preferred-install": "dist",
-        "sort-packages": true
+        "sort-packages": true,
+        "disable-tls": true
     },
     "extra": {
         "laravel": {

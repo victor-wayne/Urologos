@@ -3,6 +3,11 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
+use PHPMailer\PHPMailer\PHPMailer;
+use PHPMailer\PHPMailer\SMTP;
+use Mail;
+
+
 
 class ContactoController extends Controller
 {
@@ -13,12 +18,21 @@ class ContactoController extends Controller
 
     public function enviarCorreo(Request $request)
     {
-        
 
+        $subject = "Asunto del correo";
+        $for = "beto_jpt@hotmail.com";
+        Mail::send('urologos.email',$request->all(), function($msj) use($subject,$for){
+            $msj->from("iscalbertojimenez22@gmail.com","NombreQueApareceráComoEmisor");
+            $msj->subject($subject);
+            $msj->to($for);
+        });
         return response()->json([
-            'mensaje' => 'Correcto',
+            'mensaje' => 'Correcto Email de Contacto Enviado',
             'status' => '200',
         ]);
+        
+     
+        
 
         
     }
