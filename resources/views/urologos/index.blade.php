@@ -283,6 +283,7 @@
             <!--// end row -->
         </div>
     </div>
+<<<<<<< HEAD
     <!-- End Latest Products -->
 
     <!-- Pricing -->
@@ -357,6 +358,21 @@
                         <h2>Portfolio</h2>
                         <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed tempor incididunt ut laboret dolore magna aliqua enim minim veniam exercitation</p>
                     </div>
+=======
+</div>
+<!-- End Latest Products -->
+
+
+
+<!-- Work -->
+<div id="work">
+    <div class="section-seperator">
+        <div class="content-md container">
+            <div class="row margin-b-40">
+                <div class="col-sm-6">
+                    <h2>Portfolio</h2>
+                    <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed tempor incididunt ut laboret dolore magna aliqua enim minim veniam exercitation</p>
+>>>>>>> 6d71b9b87583081e5b2f76695fd853c7726ea432
                 </div>
                 <!--// end row -->
 
@@ -574,6 +590,7 @@
                 <!-- End Masonry Grid -->
             </div>
         </div>
+<<<<<<< HEAD
 
         <!-- Clients -->
         <div class="content-lg container">
@@ -742,6 +759,51 @@
                         </ul>
                     </div>
                     <!-- End Contact List -->
+=======
+    </div>
+</div>
+
+
+
+
+
+<!-- Contact -->
+<div id="contact">
+    <!-- Contact List -->
+    <div class="section-seperator">
+        <div class="content-lg container">
+            <div class="row">
+                <!-- Contact List -->
+                <div class="col-sm-4 sm-margin-b-50">
+                    <h3><a href="http://ft-seo.ch/">Zurich</a> <span class="text-uppercase margin-l-20">Human Resources</span></h3>
+                    <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed tempor incdidunt ut laboret dolor magna ut consequat siad esqudiat dolor</p>
+                    <ul class="list-unstyled contact-list">
+                        <li><i class="margin-r-10 color-base icon-call-out"></i> +41 60 66 555 44 33</li>
+                        <li><i class="margin-r-10 color-base icon-envelope"></i> hr@flameonepage.com</li>
+                    </ul>
+                </div>
+                <!-- End Contact List -->
+
+                <!-- Contact List -->
+                <div class="col-sm-4 sm-margin-b-50">
+                    <h3><a href="http://ft-seo.ch/">Malta</a> <span class="text-uppercase margin-l-20">Development</span></h3>
+                    <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed tempor incdidunt ut laboret dolor magna ut consequat siad esqudiat dolor</p>
+                    <ul class="list-unstyled contact-list">
+                        <li><i class="margin-r-10 color-base icon-call-out"></i> +356 7965 1257</li>
+                        <li><i class="margin-r-10 color-base icon-envelope"></i> developmemt@flameonepage.com</li>
+                    </ul>
+                </div>
+                <!-- End Contact List -->
+
+                <!-- Contact List -->
+                <div class="col-sm-4 sm-margin-b-50">
+                    <h3><a href="http://ft-seo.ch/">Manchester</a> <span class="text-uppercase margin-l-20">CEO</span></h3>
+                    <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed tempor incdidunt ut laboret dolor magna ut consequat siad esqudiat dolor</p>
+                    <ul class="list-unstyled contact-list">
+                        <li><i class="margin-r-10 color-base icon-call-out"></i> +44 654 583 5518</li>
+                        <li><i class="margin-r-10 color-base icon-envelope"></i> ceo@flameonepage.com</li>
+                    </ul>
+>>>>>>> 6d71b9b87583081e5b2f76695fd853c7726ea432
                 </div>
                 <!--// end row -->
             </div>
@@ -754,6 +816,7 @@
                 width="100%" height="100%" frameborder="0" style="border:0" allowfullscreen></iframe>
         </div>
     </div>
+<<<<<<< HEAD
     <!-- End Contact -->
     <!--========== END PAGE LAYOUT ==========-->
 
@@ -792,12 +855,43 @@
                         </ul>
                         <!-- End List -->
                     </div>
+=======
+</div>
+<!-- End Contact -->
+<!--========== END PAGE LAYOUT ==========-->
+
+<!--========== FOOTER ==========-->
+<footer class="footer">
+    <!-- Links -->
+    <div class="section-seperator">
+        <div class="content-md container">
+            <div class="row">
+                <div class="col-sm-2 sm-margin-b-30">
+                    <!-- List -->
+                    <ul class="list-unstyled footer-list">
+                        <li class="footer-list-item"><a href="#">Twitter</a></li>
+                        <li class="footer-list-item"><a href="#">Facebook</a></li>
+                        <li class="footer-list-item"><a href="#">Instagram</a></li>
+                        <li class="footer-list-item"><a href="#">YouTube</a></li>
+                    </ul>
+                    <!-- End List -->
+
+                </div>
+                <div class="col-sm-2 sm-margin-b-30">
+
+                </div>
+                <div class="col-sm-3">
+
+
+
+>>>>>>> 6d71b9b87583081e5b2f76695fd853c7726ea432
                 </div>
                 <!--// end row -->
             </div>
         </div>
         <!-- End Links -->
 
+<<<<<<< HEAD
         <!-- Copyright -->
         <div class="content container">
             <div class="row">
@@ -807,6 +901,16 @@
                 <div class="col-xs-6 text-right">
                     <p class="margin-b-0"><a class="fweight-700" href="#">FlameOnePage</a> Theme Powered by: <a class="fweight-700" href="http://ft-seo.ch/">FairTech Studio</a></p>
                 </div>
+=======
+    <!-- Copyright -->
+    <div class="content container">
+        <div class="row">
+            <div class="col-xs-6">
+                <img class="footer-logo" src="{{ asset('img/logo-dark.png') }}" alt="flameonepage Logo">
+            </div>
+            <div class="col-xs-6 text-right">
+                <p class="margin-b-0"><a class="fweight-700" href="#"></a> Diseñado por: <a class="fweight-700" href="https://salamandramarketing.com.mx">Salamandra Marketing</a></p>
+>>>>>>> 6d71b9b87583081e5b2f76695fd853c7726ea432
             </div>
             <!--// end row -->
         </div>
