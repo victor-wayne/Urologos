@@ -265,68 +265,7 @@
 </div>
 <!-- End Latest Products -->
 
-<!-- Pricing -->
-<div id="pricing">
-    <div class="bg-color-sky-light">
-        <div class="content-lg container">
-            <div class="row row-space-1">
-                <div class="col-sm-4 sm-margin-b-2">
-                    <!-- Pricing -->
-                    <div class="pricing">
-                        <div class="margin-b-30">
-                            <i class="pricing-icon icon-chemistry"></i>
-                            <h3>Silver Package <span> - $</span> 74.99</h3>
-                            <p>Lorem ipsum dolor amet consectetur ut consequat siad esqudiat dolor</p>
-                        </div>
-                        <ul class="list-unstyled pricing-list margin-b-50">
-                            <li class="pricing-list-item">Starter Kit</li>
-                            <li class="pricing-list-item">Basic Features</li>
-                            <li class="pricing-list-item">Annual Report</li>
-                        </ul>
-                        <a href="pricing.html" class="btn-theme btn-theme-sm btn-default-bg text-uppercase">Start Now</a>
-                    </div>
-                    <!-- End Pricing -->
-                </div>
-                <div class="col-sm-4 sm-margin-b-2">
-                    <!-- Pricing -->
-                    <div class="pricing pricing-active">
-                        <div class="margin-b-30">
-                            <i class="pricing-icon icon-badge"></i>
-                            <h3>Gold Package <span> - $</span> 199.99</h3>
-                            <p>Lorem ipsum dolor amet consectetur ut consequat siad esqudiat dolor</p>
-                        </div>
-                        <ul class="list-unstyled pricing-list margin-b-50">
-                            <li class="pricing-list-item">Professional Kit</li>
-                            <li class="pricing-list-item">Full Options</li>
-                            <li class="pricing-list-item">Bi-anual Report</li>
-                        </ul>
-                        <a href="pricing.html" class="btn-theme btn-theme-sm btn-default-bg text-uppercase">Start Now</a>
-                    </div>
-                    <!-- End Pricing -->
-                </div>
-                <div class="col-sm-4">
-                    <!-- Pricing -->
-                    <div class="pricing">
-                        <div class="margin-b-30">
-                            <i class="pricing-icon icon-shield"></i>
-                            <h3>Platinum Package <span> - $</span> 500</h3>
-                            <p>Lorem ipsum dolor amet consectetur ut consequat siad esqudiat dolor</p>
-                        </div>
-                        <ul class="list-unstyled pricing-list margin-b-50">
-                            <li class="pricing-list-item">Complete Kit</li>
-                            <li class="pricing-list-item">Advanced Options</li>
-                            <li class="pricing-list-item">Monthly Report</li>
-                        </ul>
-                        <a href="pricing.html" class="btn-theme btn-theme-sm btn-default-bg text-uppercase">Start Now</a>
-                    </div>
-                    <!-- End Pricing -->
-                </div>
-            </div>
-            <!--// end row -->
-        </div>
-    </div>
-</div>
-<!-- End Pricing -->
+
 
 <!-- Work -->
 <div id="work">
@@ -544,135 +483,11 @@
             <!-- End Masonry Grid -->
         </div>
     </div>
-
-    <!-- Clients -->
-    <div class="content-lg container">
-        <!-- Swiper Clients -->
-        <div class="swiper-slider swiper-clients">
-            <!-- Swiper Wrapper -->
-            <div class="swiper-wrapper">
-                <div class="swiper-slide">
-                    <img class="swiper-clients-img" src="{{ asset('img/clients/01.png') }}" alt="Clients Logo">
-                </div>
-                <div class="swiper-slide">
-                    <img class="swiper-clients-img" src="{{ asset('img/clients/02.png') }}" alt="Clients Logo">
-                </div>
-                <div class="swiper-slide">
-                    <img class="swiper-clients-img" src="{{ asset('img/clients/03.png') }}" alt="Clients Logo">
-                </div>
-                <div class="swiper-slide">
-                    <img class="swiper-clients-img" src="{{ asset('img/clients/04.png') }}" alt="Clients Logo">
-                </div>
-                <div class="swiper-slide">
-                    <img class="swiper-clients-img" src="{{ asset('img/clients/05.png') }}" alt="Clients Logo">
-                </div>
-                <div class="swiper-slide">
-                    <img class="swiper-clients-img" src="{{ asset('img/clients/06.png') }}" alt="Clients Logo">
-                </div>
-            </div>
-            <!-- End Swiper Wrapper -->
-        </div>
-        <!-- End Swiper Clients -->
-    </div>
-    <!-- End Clients -->
 </div>
-<!-- End Work -->
 
-<!-- Services -->
-<div id="services">
-    <div class="bg-color-sky-light" data-auto-height="true">
-        <div class="content-lg container">
-            <div class="row margin-b-40">
-                <div class="col-sm-6">
-                    <h2>Services</h2>
-                    <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed tempor incididunt ut laboret dolore magna aliqua enim minim veniam exercitation</p>
-                </div>
-            </div>
-            <!--// end row -->
 
-            <div class="row row-space-1 margin-b-2">
-                <div class="col-sm-4 sm-margin-b-2">
-                    <div class="service" data-height="height">
-                        <div class="service-element">
-                            <i class="service-icon icon-chemistry"></i>
-                        </div>
-                        <div class="service-info">
-                            <h3>Company Formation</h3>
-                            <p class="margin-b-5">Lorem ipsum dolor amet consectetur ut consequat siad esqudiat dolor</p>
-                        </div>
-                        <a href="#" class="content-wrapper-link"></a>
-                    </div>
-                </div>
-                <div class="col-sm-4 sm-margin-b-2">
-                    <div class="service bg-color-base" data-height="height">
-                        <div class="service-element">
-                            <i class="service-icon color-white icon-screen-tablet"></i>
-                        </div>
-                        <div class="service-info">
-                            <h3 class="color-white">Stuff Management</h3>
-                            <p class="color-white margin-b-5">Lorem ipsum dolor amet consectetur ut consequat siad esqudiat dolor</p>
-                        </div>
-                        <a href="#" class="content-wrapper-link"></a>
-                    </div>
-                </div>
-                <div class="col-sm-4">
-                    <div class="service" data-height="height">
-                        <div class="service-element">
-                            <i class="service-icon icon-badge"></i>
-                        </div>
-                        <div class="service-info">
-                            <h3>KPI Optimization</h3>
-                            <p class="margin-b-5">Lorem ipsum dolor amet consectetur ut consequat siad esqudiat dolor</p>
-                        </div>
-                        <a href="#" class="content-wrapper-link"></a>
-                    </div>
-                </div>
-            </div>
-            <!--// end row -->
 
-            <div class="row row-space-1">
-                <div class="col-sm-4 sm-margin-b-2">
-                    <div class="service" data-height="height">
-                        <div class="service-element">
-                            <i class="service-icon icon-notebook"></i>
-                        </div>
-                        <div class="service-info">
-                            <h3>Information Security</h3>
-                            <p class="margin-b-5">Lorem ipsum dolor amet consectetur ut consequat siad esqudiat dolor</p>
-                        </div>
-                        <a href="#" class="content-wrapper-link"></a>
-                    </div>
-                </div>
-                <div class="col-sm-4 sm-margin-b-2">
-                    <div class="service" data-height="height">
-                        <div class="service-element">
-                            <i class="service-icon icon-speedometer"></i>
-                        </div>
-                        <div class="service-info">
-                            <h3>Recrutinment</h3>
-                            <p class="margin-b-5">Lorem ipsum dolor amet consectetur ut consequat siad esqudiat dolor</p>
-                        </div>
-                        <a href="#" class="content-wrapper-link"></a>
-                    </div>
-                </div>
-                <div class="col-sm-4">
-                    <div class="service" data-height="height">
-                        <div class="service-element">
-                            <i class="service-icon icon-badge"></i>
-                        </div>
-                        <div class="service-info">
-                            <h3>Materials Supply</h3>
-                            <p class="margin-b-5">Lorem ipsum dolor amet consectetur ut consequat siad esqudiat dolor</p>
-                        </div>
-                        <a href="#" class="content-wrapper-link"></a>
-                    </div>
-                </div>
-            </div>
-            <!--// end row -->
-        </div>
-    </div>
-</div>
-<!-- End Service -->
+
 
 <!-- Contact -->
 <div id="contact">
@@ -735,31 +550,21 @@
                 <div class="col-sm-2 sm-margin-b-30">
                     <!-- List -->
                     <ul class="list-unstyled footer-list">
-                        <li class="footer-list-item"><a href="#body">Home</a></li>
-                        <li class="footer-list-item"><a href="#about">Team</a></li>
-                        <li class="footer-list-item"><a href="#work">Credentials</a></li>
-                        <li class="footer-list-item"><a href="#contact">Contact</a></li>
-                    </ul>
-                    <!-- End List -->
-                </div>
-                <div class="col-sm-2 sm-margin-b-30">
-                    <!-- List -->
-                    <ul class="list-unstyled footer-list">
                         <li class="footer-list-item"><a href="#">Twitter</a></li>
                         <li class="footer-list-item"><a href="#">Facebook</a></li>
                         <li class="footer-list-item"><a href="#">Instagram</a></li>
                         <li class="footer-list-item"><a href="#">YouTube</a></li>
                     </ul>
                     <!-- End List -->
+
+                </div>
+                <div class="col-sm-2 sm-margin-b-30">
+
                 </div>
                 <div class="col-sm-3">
-                    <!-- List -->
-                    <ul class="list-unstyled footer-list">
-                        <li class="footer-list-item"><a href="#">Subscribe to Our Newsletter</a></li>
-                        <li class="footer-list-item"><a href="#">Privacy Policy</a></li>
-                        <li class="footer-list-item"><a href="#">Terms &amp; Conditions</a></li>
-                    </ul>
-                    <!-- End List -->
+
+
+
                 </div>
             </div>
             <!--// end row -->
@@ -774,7 +579,7 @@
                 <img class="footer-logo" src="{{ asset('img/logo-dark.png') }}" alt="flameonepage Logo">
             </div>
             <div class="col-xs-6 text-right">
-                <p class="margin-b-0"><a class="fweight-700" href="#">FlameOnePage</a> Theme Powered by: <a class="fweight-700" href="http://ft-seo.ch/">FairTech Studio</a></p>
+                <p class="margin-b-0"><a class="fweight-700" href="#"></a> Diseñado por: <a class="fweight-700" href="https://salamandramarketing.com.mx">Salamandra Marketing</a></p>
             </div>
         </div>
         <!--// end row -->
