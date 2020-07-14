@@ -3,9 +3,63 @@
 @yield('staff')
 
 <hr>
-<section class="contact section-seperator" id="contact">
+<section class="contact section-seperator team" id="contact">
 
-staff
+<div class="section-title">
+          <h2>Staff Medico</h2>
+          <p class="equipo">En Urobaj cada día nos esforzamos por llevar la mejor calidad a cada uno de los pacientes
+que nos visitan por lo que estamos en constante actualización, contamos con un equipo de
+profesionales de la salud en las que se incluyen Urólogos, Nutriólogos, Médicos Internistas.</p>
+        </div>
+<div class="row">
+
+          <div class="col-lg-5 margin-l-50">
+            <div class="member d-flex align-items-start aos-init aos-animate" data-aos="zoom-in" data-aos-delay="100">
+              <div class="pic"><img src="http://via.placeholder.com/600x600" class="img-fluid" alt=""></div>
+              <div class="member-info">
+                <h4>Dr. Ernesto Aboytes</h4>
+                <span>Especialista en Urología</span>
+                <p class="equipo">Su amplia experiencia ha llevado a dar
+una mejor calidad de vida a cientos de personas a lo largo de su carrera, es un profesional
+con gran sentido humano por lo cual a cada uno de sus pacientes brinda una atención
+integral dentro de su consulta médica especializada.</p>
+                <div class="social">
+                  <a href=""><i class="fab fa-twitter"></i></a>
+                  <a href=""><i class="fab fa-facebook"></i></a>
+                  <a href=""><i class="fab fa-instagram"></i></a>
+                  <a href=""> <i class="fab fa-linkedin"></i> </a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-5  margin-l-50">
+            <div class="member d-flex align-items-start aos-init aos-animate" data-aos="zoom-in" data-aos-delay="100">
+              <div class="pic"><img src="http://via.placeholder.com/600x600" class="img-fluid" alt=""></div>
+              <div class="member-info">
+                <h4>Dr. Ernesto Aboytes</h4>
+                <span>Especialista en Urología</span>
+                <p class="equipo">Su amplia experiencia ha llevado a dar
+una mejor calidad de vida a cientos de personas a lo largo de su carrera, es un profesional
+con gran sentido humano por lo cual a cada uno de sus pacientes brinda una atención
+integral dentro de su consulta médica especializada.</p>
+                <div class="social">
+                  <a href=""><i class="fab fa-twitter"></i></a>
+                  <a href=""><i class="fab fa-facebook"></i></a>
+                  <a href=""><i class="fab fa-instagram"></i></a>
+                  <a href=""> <i class="fab fa-linkedin"></i> </a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          
+
+          
+
+        
+
+        </div>
         </section>
 
 

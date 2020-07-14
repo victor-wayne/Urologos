@@ -1,9 +1,25 @@
-@include('urologos.partials.nav')
+@include('urologos.partials.nav') @yield('nosotros')
 
-@yield('nosotros')
+<div id="about">
+    <div class="content-lg container">
+        <div class="row">
+            <div class="col-lg-6">
+                <img src="https://lorempixel.com/600/300" class="img-fluid" alt="">
+            </div>
+            <div class="col-lg-6 pt-4 pt-lg-0">
+                <h2>Nosotros</h2>
+                <p align="justify">
+                    Urología del Bajío tiene presencia en las ciudades de Celaya y Querétaro brindando la misma calidad de servicio en cada una de nuestras unidades de atención, tratamos todas las enfermedades que tienen que ver con Urología.
+                </p>
 
-wooow
+                <p align="justify">Ten la confianza que serás tratado por un equipo de profesionales en constante actualización y usando la mejor tecnología para regresar la salud y calidad de vida que buscas.
+                </p>
+            </div>
+        </div>
 
+
+    </div>
+</div>
 
 
 
@@ -90,6 +106,5 @@ wooow
 
 </body>
 <!-- END BODY -->
+
 </html>
-
-

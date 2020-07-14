@@ -17,6 +17,9 @@
     <link href="{{ asset('vendor/swiper/css/swiper.min.css') }}" rel="stylesheet" type="text/css"/>
     <link href="{{ asset('css/layout.min.css') }}" rel="stylesheet" type="text/css"/>
     <link href="{{ asset('css/contacto.css') }}" rel="stylesheet" type="text/css"/>
+    <link href="{{ asset('css/general.css') }}" rel="stylesheet" type="text/css"/>
+    <link href="{{asset('fontawesome/css/all.css')}}" rel="stylesheet"> <!--load all styles -->
+
     <link rel="shortcut icon" href="favicon.ico"/>
 </head>
 

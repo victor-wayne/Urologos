@@ -288,169 +288,236 @@
 
 
 
-                        <!-- Contact -->
-                        <div id="contact">
-                            <!-- Contact List -->
-                            <div class="section-seperator">
-                                <div class="content-lg container">
-                                    <div class="row">
-                                        <!-- Contact List -->
-                                        <div class="col-sm-4 sm-margin-b-50">
-                                            <h3><a href="#">Celaya, GTO</a> <span class="text-uppercase margin-l-20">Consultorio</span></h3>
-                                            <p><strong>Direccion:</strong><br>Eje Nor-Poniente Manuel J. Clouthier 200 <br><strong>Colonia:</strong> Villas de la Hacienda <br><strong>Codigo Postal:</strong> 38020 </p>
-                                            <ul class="list-unstyled contact-list">
-                                                <li><i class="margin-r-10 color-base icon-call-out"></i> ‎+52 1 461 157 7585</li>
-                                                <li><i class="margin-r-10 color-base icon-envelope"></i>contacto@urobaj.com</li>
-                                            </ul>
-                                        </div>
-                                        <!-- End Contact List -->
+    <!-- Contact -->
+    <div id="contact">
+        <!-- Contact List -->
+        <div class="section-seperator">
+            <div class="content-lg container">
+                <div class="row">
+                    <!-- Contact List -->
+                    <div class="col-sm-4 sm-margin-b-50">
+                        <h3><a href="#">Celaya, GTO</a> <span class="text-uppercase margin-l-20">Consultorio</span></h3>
+                        <p><strong>Direccion:</strong><br>Eje Nor-Poniente Manuel J. Clouthier 200 <br><strong>Colonia:</strong> Villas de la Hacienda <br><strong>Codigo Postal:</strong> 38020 </p>
+                        <ul class="list-unstyled contact-list">
+                            <li><i class="margin-r-10 color-base icon-call-out"></i> ‎+52 1 461 157 7585</li>
+                            <li><i class="margin-r-10 color-base icon-envelope"></i>contacto@urobaj.com</li>
+                        </ul>
+                    </div>
+                    <!-- End Contact List -->
 
-                                        <!-- Contact List -->
-                                        <div class="col-sm-4 sm-margin-b-50">
-                                            <h3><a href="#">Celaya, GTO</a> <span class="text-uppercase margin-l-20">Consultorio</span></h3>
-                                            <p><strong>Direccion:</strong><br>Hospital San José <br><strong>Colonia:</strong> Villas de la Hacienda <br><strong>Codigo Postal:</strong> 38020 </p>
-                                            <ul class="list-unstyled contact-list">
-                                                <li><i class="margin-r-10 color-base icon-call-out"></i> ‎+52 1 461 157 7585</li>
-                                                <li><i class="margin-r-10 color-base icon-envelope"></i>contacto@urobaj.com</li>
-                                            </ul>
-                                        </div>
-                                        <!-- End Contact List -->
+                    <!-- Contact List -->
+                    <div class="col-sm-4 sm-margin-b-50">
+                        <h3><a href="#">Celaya, GTO</a> <span class="text-uppercase margin-l-20">Consultorio</span></h3>
+                        <p><strong>Direccion:</strong><br>Hospital San José <br><strong>Colonia:</strong> Villas de la Hacienda <br><strong>Codigo Postal:</strong> 38020 </p>
+                        <ul class="list-unstyled contact-list">
+                            <li><i class="margin-r-10 color-base icon-call-out"></i> ‎+52 1 461 157 7585</li>
+                            <li><i class="margin-r-10 color-base icon-envelope"></i>contacto@urobaj.com</li>
+                        </ul>
+                    </div>
+                    <!-- End Contact List -->
 
-                                        <!-- Contact List -->
-                                        <div class="col-sm-4 sm-margin-b-50">
-                                            <h3><a href="#">Querétaro </a> <span class="text-uppercase margin-l-20">Consultorio</span></h3>
-                                            <p><strong>Direccion:</strong><br> Hospital Tec 100, Privada Ignacio Zaragoza 16-B <br><strong>Colonia:</strong> Centro <br><strong>Codigo Postal:</strong> 76000 </p>
-                                            <ul class="list-unstyled contact-list">
-                                                <li><i class="margin-r-10 color-base icon-call-out"></i> ‎+52 1 461 157 7585</li>
-                                                <li><i class="margin-r-10 color-base icon-envelope"></i>contacto@urobaj.com</li>
-                                            </ul>
-                                        </div>
-                                        <!-- End Contact List -->
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+                    <!-- Contact List -->
+                    <div class="col-sm-4 sm-margin-b-50">
+                        <h3><a href="#">Querétaro </a> <span class="text-uppercase margin-l-20">Consultorio</span></h3>
+                        <p><strong>Direccion:</strong><br> Hospital Tec 100, Privada Ignacio Zaragoza 16-B <br><strong>Colonia:</strong> Centro <br><strong>Codigo Postal:</strong> 76000 </p>
+                        <ul class="list-unstyled contact-list">
+                            <li><i class="margin-r-10 color-base icon-call-out"></i> ‎+52 1 461 157 7585</li>
+                            <li><i class="margin-r-10 color-base icon-envelope"></i>contacto@urobaj.com</li>
+                        </ul>
+                    </div>
+                    <!-- End Contact List -->
 
 
 
 
 
-
-
-                                <!--========== FOOTER ==========-->
-                                <footer class="footer">
-                                    <!-- Links -->
-                                    <div class="section-seperator">
-                                        <div class="content-md container">
-                                            <div class="row">
-                                                <div class="col-sm-2 sm-margin-b-30">
-                                                    <!-- List -->
-                                                    <ul class="list-unstyled footer-list">
-
-                                                        <li class="footer-list-item"><a href="https://www.facebook.com/urobaj/">Facebook</a></li>
-                                                        <li class="footer-list-item"><a href="#">Instagram</a></li>
-                                                        <li class="footer-list-item"><a href="#">YouTube</a></li>
-                                                    </ul>
-                                                    <!-- End List -->
-
-                                                </div>
-                                                <div class="col-sm-2 sm-margin-b-30">
-
-                                                </div>
-                                                <div class="col-sm-3">
+                </div>
+            </div>
+        </div>
+    </div>
 
 
 
-                                                </div>
-                                                <!--// end row -->
-                                            </div>
-                                        </div>
-                                        <!-- End Links -->
-
-
-                                                    <!-- Copyright -->
-                                                    <div class="content container">
-                                                        <div class="row">
-                                                            <div class="col-xs-6">
-                                                                <img class="footer-logo" src="{{ asset('img/logo-integraurobaj.png') }}" alt="integra-urobaj">
-                                                            </div>
-                                                            <div class="col-xs-6 text-right">
-                                                                <p class="margin-b-0">
-                                                                    <a class="fweight-700" href="#"></a> Diseñado por: <a class="fweight-700" href="https://salamandramarketing.com.mx">Salamandra Marketing</a></p>
-                                                            </div>
-                                                            <!--// end row -->
-                                                        </div>
-                                                        <!-- End Copyright -->
-                                                    </div>
-                                        <a href="javascript:void(0);" class="js-back-to-top back-to-top">Top</a>
-                                </footer>
 
 
 
-                                <!-- JAVASCRIPTS(Load javascripts at bottom, this will reduce page load time) -->
-                                <!-- CORE PLUGINS -->
-                                <script src="{{ asset('vendor/jquery.min.js') }}" type="text/javascript"></script>
-                                <script src="{{ asset('vendor/jquery-migrate.min.js') }}" type="text/javascript"></script>
-                                <script src="{{ asset('vendor/bootstrap/js/bootstrap.min.js') }}" type="text/javascript"></script>
 
-                                <!-- PAGE LEVEL PLUGINS -->
-                                <script src="{{ asset('vendor/jquery.easing.js') }}" type="text/javascript"></script>
-                                <script src="{{ asset('vendor/jquery.back-to-top.js') }}" type="text/javascript"></script>
-                                <script src="{{ asset('vendor/jquery.smooth-scroll.js') }}" type="text/javascript"></script>
-                                <script src="{{ asset('vendor/jquery.wow.min.js') }}" type="text/javascript"></script>
-                                <script src="{{ asset('vendor/swiper/js/swiper.jquery.min.js') }}" type="text/javascript"></script>
-                                <script src="{{ asset('vendor/masonry/jquery.masonry.pkgd.min.js') }}" type="text/javascript"></script>
-                                <script src="{{ asset('vendor/masonry/imagesloaded.pkgd.min.js') }}" type="text/javascript"></script>
+    <!--========== FOOTER ==========-->
+    <footer class="footer">
+        <!-- Links -->
+        <div class="section-seperator">
+            <div class="content-md container">
+                <div class="row">
+                    <div class="col-sm-2 sm-margin-b-30">
+                        <!-- List -->
+                        <ul class="list-unstyled footer-list">
 
-                                <!-- PAGE LEVEL SCRIPTS -->
-                                <script src="{{ asset('js/layout.min.js') }}" type="text/javascript"></script>
-                                <script src="{{ asset('js/components/wow.min.js') }}" type="text/javascript"></script>
-                                <script src="{{ asset('js/components/swiper.min.js') }}" type="text/javascript"></script>
-                                <script src="{{ asset('js/components/masonry.min.js') }}" type="text/javascript"></script>
-                                <script src="https://cdn.jsdelivr.net/npm/sweetalert2@9"></script>
+                            <li class="footer-list-item"><a href="https://www.facebook.com/urobaj/">Facebook</a></li>
+                            <li class="footer-list-item"><a href="#">Instagram</a></li>
+                            <li class="footer-list-item"><a href="#">YouTube</a></li>
+                        </ul>
+                        <!-- End List -->
+
+                    </div>
+                    <div class="col-sm-2 sm-margin-b-30">
+
+                    </div>
+                    <div class="col-sm-3">
 
 
-                                <script>
-                                    function mostrarModal(numero) {
-                                        switch (numero) {
-                                            case 1:
 
-                                                Swal.fire({
-                                                    title: '<strong>Endourología</strong>',
-                                                    width: '90%',
-                                                    heightAuto: true,
-                                                    html: '<div class="row">' +
-                                                        '<div class = "col-md-6 "> imagen perrona </div> <div class = "col-md-6 margin-l-20" >' +
-                                                        '<p align = "justify" > Es una técnica de mínima invasión con la cual podemos tratar enfermedades del tracto urinario vía endoscópica, desde la uretra hasta el riñón. </p>' +
-                                                        '<ul align="justify"> <li><strong> Nefrolitotricia percutáneas:</strong> En este procedimiento realizamos una pequeña incisión en la espalda para poder extraer cálculos renales,' +
-                                                        'es de mínima invasión. </li>' +
-                                                        ' <li> <strong>Litotricia láser:</strong> Procedimiento endoscópico para tratamiento de cálculos mínimamente invasivo </li> </ul> </div ></div > ',
-                                                    showCloseButton: true,
-                                                    showCancelButton: true,
-                                                    focusConfirm: false,
-                                                    confirmButtonText: '<i class="fa fa-thumbs-up"></i> Great!',
-                                                    confirmButtonAriaLabel: 'Thumbs up, great!',
-                                                    cancelButtonText: '<i class="fa fa-thumbs-down"></i>',
-                                                    cancelButtonAriaLabel: 'Thumbs down'
-                                                });
-                                                break;
+                    </div>
+                    <!--// end row -->
+                </div>
+            </div>
+            <!-- End Links -->
 
-                                            case 2:
-                                                alert('2');
-                                                break;
-                                            case 3:
-                                                alert('3');
-                                                break;
-                                            case 4:
-                                                alert('4');
-                                                break;
 
-                                            default:
-                                                break;
-                                        }
+            <!-- Copyright -->
+            <div class="content container">
+                <div class="row">
+                    <div class="col-xs-6">
+                        <img class="footer-logo" src="{{ asset('img/logo-integraurobaj.png') }}" alt="integra-urobaj">
+                    </div>
+                    <div class="col-xs-6 text-right">
+                        <p class="margin-b-0">
+                            <a class="fweight-700" href="#"></a> Diseñado por: <a class="fweight-700" href="https://salamandramarketing.com.mx">Salamandra Marketing</a></p>
+                    </div>
+                    <!--// end row -->
+                </div>
+                <!-- End Copyright -->
+            </div>
+            <a href="javascript:void(0);" class="js-back-to-top back-to-top">Top</a>
+    </footer>
 
-                                    }
-                                </script>
+
+
+    <!-- JAVASCRIPTS(Load javascripts at bottom, this will reduce page load time) -->
+    <!-- CORE PLUGINS -->
+    <script src="{{ asset('vendor/jquery.min.js') }}" type="text/javascript"></script>
+    <script src="{{ asset('vendor/jquery-migrate.min.js') }}" type="text/javascript"></script>
+    <script src="{{ asset('vendor/bootstrap/js/bootstrap.min.js') }}" type="text/javascript"></script>
+
+    <!-- PAGE LEVEL PLUGINS -->
+    <script src="{{ asset('vendor/jquery.easing.js') }}" type="text/javascript"></script>
+    <script src="{{ asset('vendor/jquery.back-to-top.js') }}" type="text/javascript"></script>
+    <script src="{{ asset('vendor/jquery.smooth-scroll.js') }}" type="text/javascript"></script>
+    <script src="{{ asset('vendor/jquery.wow.min.js') }}" type="text/javascript"></script>
+    <script src="{{ asset('vendor/swiper/js/swiper.jquery.min.js') }}" type="text/javascript"></script>
+    <script src="{{ asset('vendor/masonry/jquery.masonry.pkgd.min.js') }}" type="text/javascript"></script>
+    <script src="{{ asset('vendor/masonry/imagesloaded.pkgd.min.js') }}" type="text/javascript"></script>
+
+    <!-- PAGE LEVEL SCRIPTS -->
+    <script src="{{ asset('js/layout.min.js') }}" type="text/javascript"></script>
+    <script src="{{ asset('js/components/wow.min.js') }}" type="text/javascript"></script>
+    <script src="{{ asset('js/components/swiper.min.js') }}" type="text/javascript"></script>
+    <script src="{{ asset('js/components/masonry.min.js') }}" type="text/javascript"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@9"></script>
+
+
+    <script>
+        function mostrarModal(numero) {
+            switch (numero) {
+                case 1:
+
+                    Swal.fire({
+                        title: '<strong><h2>Endourología</h2></strong>',
+                        width: '90%',
+                        heightAuto: true,
+                        html: '<div class="row">' +
+                            '<div class = "col-md-6 "><img class="img-responsive" src="' + "{{asset('img/970x647/endurologia.jpg')}}" + '" width="435px" alt="Latest Products Image">' +
+                            ' </div> <div class = "col-md-5" >' +
+                            '<p align = "justify" > Es una técnica de mínima invasión con la cual podemos tratar enfermedades del tracto urinario vía endoscópica, desde la uretra hasta el riñón. </p>' +
+                            '<ul align="justify"> <li><strong> Nefrolitotricia percutáneas:</strong> En este procedimiento realizamos una pequeña incisión en la espalda para poder extraer cálculos renales,' +
+                            'es de mínima invasión. </li>' +
+                            ' <li> <strong>Litotricia láser:</strong> Procedimiento endoscópico para tratamiento de cálculos mínimamente invasivo </li> </ul> </div ></div > ',
+                        showCloseButton: true,
+                        showCancelButton: false,
+                        focusConfirm: false,
+                        confirmButtonText: 'Cerrar',
+                    });
+                    break;
+
+                case 2:
+                    Swal.fire({
+                        title: '<strong><h2>Oncología Urológica</h2></strong>',
+                        width: '90%',
+                        heightAuto: true,
+                        html: '<div class="row">' +
+                            '<div class = "col-md-6 "><img class="img-responsive" src="' + "{{ asset('img/970x647/pr.jpeg') }}" + '" width="435px" alt="Latest Products Image">' +
+                            ' </div> <div class = "col-md-5" >' +
+                            '<p align = "justify" >Nos enfocamos en el diagnóstico y estudio de tumores en el sistema urinario, este abarca próstata, Riñón, Vejiga tanto de hombres como mujeres y cáncer de testículos.</p>' +
+                            '<ul align="justify"> ' +
+                            '<li><strong>Cáncer de próstata:</strong>Es uno de los más comunes y de las principales causas de' +
+                            ' muerte entre los hombres, la detección oportuna es primordial.</li>' +
+                            ' <li> <strong>Cáncer de vejiga:</strong> Los síntomas de este cáncer incluyen sangrado al orinar, urgencia' +
+                            ' frecuente para orinar, dolor al orinar, dolor en parte baja de la espalda.</li>' +
+                            ' <li> <strong>Cáncer de Riñón:</strong>Es probable que en el inicio de esta enfermedad no se presenten' +
+                            ' síntomas, pero aparecerán mediante la enfermedad evolucione, debes estar atento' +
+                            ' si se presenta Sangre en la orina, bulto en el abdomen, pérdida de peso sin razón,' +
+                            ' dolor en costado que no desaparece, pérdida de apetito.</li>' +
+                            ' <li> <strong>Cáncer testicular:</strong>Es más común en hombres entre los 15 y 40 años, los síntomas' +
+                            ' incluyen inflamación, crecimiento sin dolor y alteraciones en la estructura del testículo.</li>' +
+                            ' </ul> </div ></div > ',
+                        showCloseButton: true,
+                        showCancelButton: false,
+                        focusConfirm: false,
+                        confirmButtonText: 'Cerrar',
+                    });
+                    break;
+                case 3:
+
+                    Swal.fire({
+                        title: '<strong><h2>Urología reconstructiva</h2></strong>',
+                        width: '90%',
+                        heightAuto: true,
+                        html: '<div class="row">' +
+                            '<div class = "col-md-6 "><img class="img-responsive" src="' + "{{ asset('img/970x647/reconstruccion-uretra.jpg') }}" + '" width="435px" alt="Latest Products Image">' +
+                            ' </div> <div class = "col-md-5" >' +
+                            '<p align = "justify" > Nos encargamos de reparar de forma quirúrgica trastornos' +
+                            ' congénitos o adquiridos de los órganos del sistema genitourinario tanto en hombres y' +
+                            ' mujeres devolviéndoles la función y calidad de vida usando la más alta tecnología. </p>' +
+                            '<ul align="justify">' +
+                            ' <li><strong>Reconstrucción Uretral: </strong>Realizada por urólogos certificados con amplia experiencia' +
+                            ' utilizando los instrumentos de la más alta tecnología para una recuperación pronta y' +
+                            ' evitando complicaciones.</li>' +
+                            '</ul> </div ></div > ',
+                        showCloseButton: true,
+                        showCancelButton: false,
+                        focusConfirm: false,
+                        confirmButtonText: 'Cerrar',
+                    });
+                    break;
+                case 4:
+                    Swal.fire({
+                        title: '<strong><h2>Cirugía endoscópica de próstata</h2></strong>',
+                        width: '90%',
+                        heightAuto: true,
+                        html: '<div class="row">' +
+                            '<div class = "col-md-6 "><img class="img-responsive" src="' + "{{ asset('img/970x647/endoscopia.jpg') }}" + '" width="435px" alt="Latest Products Image">' +
+                            ' </div> <div class = "col-md-5" >' +
+                            '<p align = "justify" > Usando la mejor tecnología para brindarte una pronta recuperación. </p>' +
+                            '<ul align="justify">' +
+                            ' <li><strong>Enucleación Prostática con Láser Holmio: </strong>Esta cirugía ayuda a reducir los síntomas' +
+                            ' urinarios por la hiperplasia prostática benigna mediante un láser que corta el exceso' +
+                            ' de tejidos para luego ser extraídos. < /li>' +
+                            ' <li><strong>Resección bipolar prostática: </strong>Técnica quirúrgica mediante energía eléctrica usando' +
+                            ' solución salina con la misma osmolaridad de la sangre disminuyendo las' +
+                            ' complicaciones del agua destilada.</li>' +
+                            '</ul> </div ></div > ',
+                        showCloseButton: true,
+                        showCancelButton: false,
+                        focusConfirm: false,
+                        confirmButtonText: 'Cerrar',
+                    });
+                    break;
+
+                default:
+                    break;
+            }
+
+        }
+    </script>
 </body>
 <!-- END BODY -->
 
