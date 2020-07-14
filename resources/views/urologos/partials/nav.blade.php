@@ -37,8 +37,8 @@
 
                 <div class="logo">
                     <a class="logo-wrap" href="#body">
-                        <img class="logo-img logo-img-main" src="{{ asset('img/logo.png') }}" alt="FlameOnePage Logo">
-                        <img class="logo-img logo-img-active" src="{{ asset('img/logo-dark.png') }}" alt="FlameOnePage Dark Logo">
+                        <img class="logo-img logo-img-main" src="{{ asset('img/logo-integraurobaj.png') }}" alt="urobaj-logo">
+                        <img class="logo-img logo-img-active" src="{{ asset('img/logo-integraurobaj.png') }}" alt="urobaj-logo">
                     </a>
                 </div>
             </div>

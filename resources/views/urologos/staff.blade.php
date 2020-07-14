@@ -73,34 +73,24 @@ integral dentro de su consulta médica especializada.</p>
                 <div class="col-sm-2 sm-margin-b-30">
                     <!-- List -->
                     <ul class="list-unstyled footer-list">
-                        <li class="footer-list-item"><a href="#body">Home</a></li>
-                        <li class="footer-list-item"><a href="#about">Team</a></li>
-                        <li class="footer-list-item"><a href="#work">Credentials</a></li>
-                        <li class="footer-list-item"><a href="#contact">Contact</a></li>
-                    </ul>
-                    <!-- End List -->
-                </div>
-                <div class="col-sm-2 sm-margin-b-30">
-                    <!-- List -->
-                    <ul class="list-unstyled footer-list">
-                        <li class="footer-list-item"><a href="#">Twitter</a></li>
-                        <li class="footer-list-item"><a href="#">Facebook</a></li>
+
+                        <li class="footer-list-item"><a href="https://www.facebook.com/urobaj/">Facebook</a></li>
                         <li class="footer-list-item"><a href="#">Instagram</a></li>
                         <li class="footer-list-item"><a href="#">YouTube</a></li>
                     </ul>
                     <!-- End List -->
+
+                </div>
+                <div class="col-sm-2 sm-margin-b-30">
+
                 </div>
                 <div class="col-sm-3">
-                    <!-- List -->
-                    <ul class="list-unstyled footer-list">
-                        <li class="footer-list-item"><a href="#">Subscribe to Our Newsletter</a></li>
-                        <li class="footer-list-item"><a href="#">Privacy Policy</a></li>
-                        <li class="footer-list-item"><a href="#">Terms &amp; Conditions</a></li>
-                    </ul>
-                    <!-- End List -->
+
+
+
                 </div>
+                <!--// end row -->
             </div>
-            <!--// end row -->
         </div>
     </div>
     <!-- End Links -->
@@ -109,15 +99,16 @@ integral dentro de su consulta médica especializada.</p>
     <div class="content container">
         <div class="row">
             <div class="col-xs-6">
-                <img class="footer-logo" src="{{ asset('img/logo-dark.png') }}" alt="flameonepage Logo">
+                <img class="footer-logo" src="{{ asset('img/logo-integraurobaj.png') }}" alt="integra-urobaj">
             </div>
             <div class="col-xs-6 text-right">
-                <p class="margin-b-0"><a class="fweight-700" href="#">FlameOnePage</a> Theme Powered by: <a class="fweight-700" href="http://ft-seo.ch/">FairTech Studio</a></p>
+                <p class="margin-b-0">
+                    <a class="fweight-700" href="#"></a> Diseñado por: <a class="fweight-700" href="https://salamandramarketing.com.mx">Salamandra Marketing</a></p>
             </div>
+            <!--// end row -->
         </div>
-        <!--// end row -->
+        <!-- End Copyright -->
     </div>
-    <!-- End Copyright -->
 </footer>
 <!--========== END FOOTER ==========-->
 
