@@ -15,7 +15,7 @@ profesionales de la salud en las que se incluyen Urólogos, Nutriólogos, Médic
 
           <div class="col-lg-5 margin-l-50">
             <div class="member d-flex align-items-start aos-init aos-animate" data-aos="zoom-in" data-aos-delay="100">
-              <div class="pic"><img src="http://via.placeholder.com/600x600" class="img-fluid" alt=""></div>
+              <div class="pic"><img src="{{asset('img/fdoctor.jpeg')}}" class="img-fluid" alt=""></div>
               <div class="member-info">
                 <h4>Dr. Ernesto Aboytes</h4>
                 <span>Especialista en Urología</span>
@@ -23,6 +23,7 @@ profesionales de la salud en las que se incluyen Urólogos, Nutriólogos, Médic
 una mejor calidad de vida a cientos de personas a lo largo de su carrera, es un profesional
 con gran sentido humano por lo cual a cada uno de sus pacientes brinda una atención
 integral dentro de su consulta médica especializada.</p>
+<a class="link" onclick="mostrarCV();">Ver Curriculum</a>
                 <div class="social">
                   <a href=""><i class="fab fa-twitter"></i></a>
                   <a href=""><i class="fab fa-facebook"></i></a>
@@ -35,7 +36,7 @@ integral dentro de su consulta médica especializada.</p>
 
           <div class="col-lg-5  margin-l-50">
             <div class="member d-flex align-items-start aos-init aos-animate" data-aos="zoom-in" data-aos-delay="100">
-              <div class="pic"><img src="http://via.placeholder.com/600x600" class="img-fluid" alt=""></div>
+              <div class="pic"><img src="{{asset('img/fdoctor.jpeg')}}" class="img-fluid" alt=""></div>
               <div class="member-info">
                 <h4>Dr. Ernesto Aboytes</h4>
                 <span>Especialista en Urología</span>
@@ -43,6 +44,7 @@ integral dentro de su consulta médica especializada.</p>
 una mejor calidad de vida a cientos de personas a lo largo de su carrera, es un profesional
 con gran sentido humano por lo cual a cada uno de sus pacientes brinda una atención
 integral dentro de su consulta médica especializada.</p>
+<a class="link" onclick="mostrarCV();">Ver Curriculum</a>
                 <div class="social">
                   <a href=""><i class="fab fa-twitter"></i></a>
                   <a href=""><i class="fab fa-facebook"></i></a>
@@ -139,7 +141,27 @@ integral dentro de su consulta médica especializada.</p>
 <script src="{{ asset('js/validate/jquery.validate.js') }}" type="text/javascript"></script>
 
 <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@9"></script>
 
+<script>
+function mostrarCV() {
+
+                                    
+        
+
+                                Swal.fire({
+                                  title: '<strong>Curriculum</strong>',
+                        width: '90%',
+                        heightAuto: true,
+                        html: '<embed src="{{ asset("docs/curriculum.pdf") }}" type="application/pdf" width="800px" height="500px" />',
+                        showCloseButton: true,
+                        showCancelButton: false,
+                        focusConfirm: false,
+                        confirmButtonText: 'Cerrar',
+                    });
+
+}
+</script>
 
 </body>
 <!-- END BODY -->
