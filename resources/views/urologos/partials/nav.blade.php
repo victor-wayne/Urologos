@@ -19,6 +19,7 @@
     <link href="{{ asset('css/contacto.css') }}" rel="stylesheet" type="text/css"/>
     <link href="{{ asset('css/general.css') }}" rel="stylesheet" type="text/css"/>
     <link href="{{asset('fontawesome/css/all.css')}}" rel="stylesheet"> <!--load all styles -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
     <link rel="shortcut icon" href="favicon.ico"/>
 </head>
@@ -83,7 +84,7 @@
                 <div class="carousel-centered">
                     <div class="margin-b-40">
                         <h1 class="carousel-title">INTEGRAUROBAJ</h1>
-                        <p class="color-white">Lorem ipsum dolor amet consectetur adipiscing dolore magna aliqua <br/> enim minim estudiat veniam siad venumus dolore</p>
+                        <p class="color-white">En Urobaj cada día nos esforzamos por llevar la mejor calidad a cada uno de los  <br/>pacientes que nos visitan por lo que estamos en constante actualización.</p>
                     </div>
 
                     <a href="https://api.whatsapp.com/send?phone=524612541789&text=Hola INTEGRAUROBAJ me interesan tus servicios " class="btn-theme btn-theme-sm btn-white-brd text-uppercase">WhatsApp</a>

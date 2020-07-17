@@ -4,10 +4,10 @@
 
 <head>
     <meta charset="utf-8" />
-    <title>INTEGRAUROBAJ</title>
+    <title>INTEGRAUROBAJ | UROLOGO | DR ERNESTO ABOYTES</title>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta content="width=device-width, initial-scale=1" name="viewport" />
-    <meta content="FlameOnePage freebie theme for web startups by FairTech SEO." name="description" />
+    <meta content="pagina web de integra urobaj en celaya GTO y Queretaro" name="urobaj" />
     <meta content="FairTech" name="author" />
     <link href="http://fonts.googleapis.com/css?family=Hind:300,400,500,600,700" rel="stylesheet" type="text/css">
     <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
@@ -75,19 +75,19 @@
 
         <div class="carousel-inner" role="listbox">
             <div class="item active">
-                <img class="img-responsive" src="{{asset('img/1920x1080/urologia.jpeg')}}" alt="Slider Image">
+                <img class="img-responsive" src="{{asset('img/1920x1080/urologia.jpeg')}}" alt="urobaj">
                 <div class="container">
                     <div class="carousel-centered">
                         <div class="margin-b-40">
                             <h1 class="carousel-title">INTEGRAUROBAJ</h1>
-                            <p class="color-white">Lorem ipsum dolor amet consectetur adipiscing dolore magna aliqua <br/> enim minim estudiat veniam siad venumus dolore</p>
+                            <p class="color-white">En Urobaj cada día nos esforzamos por llevar la mejor calidad a cada uno de los  <br/>pacientes que nos visitan por lo que estamos en constante actualización.</p>
                         </div>
                         <a href="https://api.whatsapp.com/send?phone=524612541789&text=Hola INTEGRAUROBAJ me interesan tus servicios " class="btn-theme btn-theme-sm btn-white-brd text-uppercase">WhatsApp</a>
                     </div>
                 </div>
             </div>
             <div class="item">
-                <img class="img-responsive" src="{{ asset('img/1920x1080/dr-aboytes.jpeg') }}" alt="Slider Image">
+                <img class="img-responsive" src="{{ asset('img/1920x1080/dr-aboytes.jpeg') }}" alt="urologo-dr-ernesto-aboytes">
                 <div class="container">
                     <div class="carousel-centered">
                         <div class="margin-b-40">
@@ -102,47 +102,18 @@
     </div>
     <!--========== SLIDER ==========-->
 
-    <!--========== PAGE LAYOUT ==========-->
-    <!-- About -->
-    <div id="about">
-        <div class="content-lg container">
-            <!-- Masonry Grid -->
-            <div class="masonry-grid row">
-                <div class="masonry-grid-sizer col-xs-6 col-sm-6 col-md-1"></div>
-                <div class="masonry-grid-item col-xs-12 col-sm-6 col-md-4 sm-margin-b-30">
-                    <div class="margin-b-60">
-                        <h2>Harmonious Planning</h2>
-                        <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed tempor incididunt ut laboret dolore magna ut consequat siad esqudiat dolor</p>
-                    </div>
-                    <img class="full-width img-responsive wow fadeInUp" src="{{ asset('img/500x500/01.jpg') }}" alt="Portfolio Image" data-wow-duration=".3" data-wow-delay=".2s">
-                </div>
-                <div class="masonry-grid-item col-xs-12 col-sm-6 col-md-4">
-                    <div class="margin-b-60">
-                        <h2>Easy Integration</h2>
-                        <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed tempor incididunt ut laboret dolore magna ut consequat siad esqudiat dolor</p>
-                    </div>
-                    <img class="full-width img-responsive wow fadeInUp" src="{{ asset('img/500x500/02.jpg') }}" alt="Portfolio Image" data-wow-duration=".3" data-wow-delay=".3s">
-                </div>
-                <div class="masonry-grid-item col-xs-12 col-sm-6 col-md-4">
-                    <div class="margin-t-60 margin-b-60">
-                        <h2>Superior Support</h2>
-                        <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed tempor incididunt ut laboret dolore magna ut consequat siad esqudiat dolor</p>
-                    </div>
-                    <img class="full-width img-responsive wow fadeInUp" src="{{ asset('img/500x500/03.jpg') }}" alt="Portfolio Image" data-wow-duration=".3" data-wow-delay=".4s">
-                </div>
-            </div>
-            <!-- End Masonry Grid -->
-        </div>
+
 
         <div class="bg-color-sky-light">
             <div class="content-lg container">
                 <div class="row">
                     <div class="col-md-5 col-sm-5 md-margin-b-60">
                         <div class="margin-t-50 margin-b-30">
-                            <h2>Why Us?</h2>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                            <h2>Nosotros</h2>
+                            <p align="justify"><strong>Urología del Bajío</strong> tiene presencia en las ciudades  de <strong>Celaya y Querétaro</strong> brindando la misma calidad de servicio en cada una de nuestras unidades de atención, tratamos todas las enfermedades que tienen que ver con <strong>Urología</strong> <br> <br>
+                                Ten la confianza que serás tratado por un equipo de profesionales en constante actualización y usando la mejor tecnología para regresar la salud y calidad de vida que buscas.  </p>
                         </div>
-                        <a href="#" class="btn-theme btn-theme-sm btn-white-bg text-uppercase">More...</a>
+
                     </div>
                     <div class="col-md-5 col-sm-7 col-md-offset-2">
                         <!-- Accordion -->
@@ -152,13 +123,13 @@
                                     <div class="panel-heading" role="tab" id="headingOne">
                                         <h4 class="panel-title">
                                             <a class="panel-title-child" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                            Expert Research
+                                            Expertos
                                         </a>
                                         </h4>
                                     </div>
                                     <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
                                         <div class="panel-body">
-                                            Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch.
+                                            En Urobaj cada día nos esforzamos por llevar la mejor calidad a cada uno de los pacientes que nos visitan por lo que estamos en constante actualización.
                                         </div>
                                     </div>
                                 </div>
@@ -166,13 +137,13 @@
                                     <div class="panel-heading" role="tab" id="headingTwo">
                                         <h4 class="panel-title">
                                             <a class="collapsed panel-title-child" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                            Hi-Tech Engineering
+                                            Staff Médico
                                         </a>
                                         </h4>
                                     </div>
                                     <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
                                         <div class="panel-body">
-                                            Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch.
+                                            Contamos con Staff Médico para atender tus necesidades Urólogos, Nutriólogos, Médicos Internistas.
                                         </div>
                                     </div>
                                 </div>
@@ -180,13 +151,13 @@
                                     <div class="panel-heading" role="tab" id="headingThree">
                                         <h4 class="panel-title">
                                             <a class="collapsed panel-title-child" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                            Outstanding Results
+                                            Servicios
                                         </a>
                                         </h4>
                                     </div>
                                     <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
                                         <div class="panel-body">
-                                            Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch.
+                                            Contamos con los servicios de Endourología, Oncología Urológica, Urología reconstructiva, Cirugía endoscópica de próstata.
                                         </div>
                                     </div>
                                 </div>
@@ -207,14 +178,14 @@
             <div class="row margin-b-40">
                 <div class="col-sm-6">
                     <h2>Servicios</h2>
-                    <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed tempor incididunt ut laboret dolore magna aliqua enim minim veniam exercitation</p>
+                    <p></p>
                 </div>
             </div>
             <!--// end row -->
             <div class="row" style="display: flex;">
                 <div class="col-sm-3 ">
                     <div class="col-sm-12 ">
-                        <img class="img-responsive" src="{{ asset('img/970x647/endurologia.jpg') }}" alt="Latest Products Image">
+                        <img class="img-responsive" src="{{ asset('img/970x647/endurologia.jpg') }}" alt="Endurologia">
                     </div>
                     <div class="col-sm-12 margin-t-10 " style=" min-height: 75px;">
                         <h4><a href="#">Endourología</a></h4>
@@ -230,7 +201,7 @@
 
                 <div class="col-sm-3 ">
                     <div class="col-sm-12 ">
-                        <img class="img-responsive" src="{{ asset('img/970x647/pr.jpeg') }}" alt="Latest Products Image">
+                        <img class="img-responsive" src="{{ asset('img/970x647/pr.jpeg') }}" alt="Oncologia-urologica">
                     </div>
                     <div class="col-sm-12 margin-t-10 " style=" min-height: 75px;">
                         <h4><a href="#">Oncología Urológica</a></h4>
@@ -247,7 +218,7 @@
 
                 <div class="col-sm-3">
                     <div class="col-sm-12 ">
-                        <img class="img-responsive" src="{{ asset('img/970x647/reconstruccion-uretra.jpg') }}" alt="Latest Products Image">
+                        <img class="img-responsive" src="{{ asset('img/970x647/reconstruccion-uretra.jpg') }}" alt="reconstruccion-de-la-uretra">
                     </div>
                     <div class="col-sm-12 margin-t-10 " style=" min-height: 75px;">
                         <h4><a href="#">Urología reconstructiva</a> </h4>
@@ -263,7 +234,7 @@
 
                 <div class="col-sm-3">
                     <div class="col-sm-12 ">
-                        <img class="img-responsive" src="{{ asset('img/970x647/endoscopia.jpg') }}" alt="Latest Products Image">
+                        <img class="img-responsive" src="{{ asset('img/970x647/endoscopia.jpg') }}" alt="endoscopia">
                     </div>
                     <div class="col-sm-12 margin-t-10" style=" min-height: 50px;">
                         <h4><a href="#">Cirugía endoscópica de próstata</a> </h4>
@@ -281,6 +252,45 @@
             </div>
 
             <!--// end row -->
+        </div>
+    </div>
+
+    <!--========== PAGE LAYOUT ==========-->
+    <!-- About -->
+    <div id="about">
+        <div class="content-lg container">
+            <!-- Masonry Grid -->
+            <div class="masonry-grid row">
+                <div class="masonry-grid-sizer col-xs-6 col-sm-6 col-md-1"></div>
+                <div class="masonry-grid-item col-xs-12 col-sm-6 col-md-4 sm-margin-b-30">
+                    <div class="margin-b-60">
+                        <h2>Cáncer de Próstata</h2>
+                    </div>
+                    <a href="https://www.youtube.com/watch?v=y6prS56uOw8&feature=youtu.be" class="portfolio-popup" title="Cáncer de Próstata">
+                        <img class="full-width img-responsive wow fadeInUp" src="{{ asset('img/500x500/urobaj-youtube.jpeg') }}" alt="cancer-de-prostata" data-wow-duration=".3" data-wow-delay=".2s">
+                    </a>
+                </div>
+
+                <div class="masonry-grid-item col-xs-12 col-sm-6 col-md-4">
+                    <div class="margin-b-60">
+                        <h2>Cálculos Renales</h2>
+
+                    </div>
+                    <a href="https://www.youtube.com/watch?v=twV0CSmhH9Y&feature=youtu.be" class="portfolio-popup" title="Pediatra">
+
+                        <img class="full-width img-responsive wow fadeInUp" src="{{ asset('img/500x500/urobaj-youtube.jpeg') }}" alt="Calculos-Renales" data-wow-duration=".3" data-wow-delay=".3s">
+                    </a>
+                </div>
+
+                <div class="masonry-grid-item col-xs-12 col-sm-6 col-md-4">
+                    <div class="margin-t-60 margin-b-60">
+                        <h2>Siguenos en YouTube</h2>
+
+                    </div>
+                    <img class="full-width img-responsive wow fadeInUp" src="{{ asset('img/500x500/urobaj-youtube.jpeg') }}" alt="dr-ernesto-aboytes" data-wow-duration=".3" data-wow-delay=".4s">
+                </div>
+            </div>
+            <!-- End Masonry Grid -->
         </div>
     </div>
 
@@ -351,10 +361,10 @@
                     <div class="col-sm-2 sm-margin-b-30">
                         <!-- List -->
                         <ul class="list-unstyled footer-list">
+                            <li class="footer-list-item"><a href="https://www.facebook.com/urobaj/"><i class="fa fa-facebook-square" style="font-size:24px;color:  #3b5998"></i> Facebook</a></li>
+                            <li class="footer-list-item"><a href="#"><i class="fa fa-instagram" style="font-size:24px"></i> Instagram</a></li>
+                            <li class="footer-list-item"><a href="#"><i class="fa fa-youtube-square" style="font-size:24px;color:   #c4302b"></i> YouTube</a></li>
 
-                            <li class="footer-list-item"><a href="https://www.facebook.com/urobaj/">Facebook</a></li>
-                            <li class="footer-list-item"><a href="#">Instagram</a></li>
-                            <li class="footer-list-item"><a href="#">YouTube</a></li>
                         </ul>
                         <!-- End List -->
 
@@ -390,6 +400,7 @@
             </div>
             <a href="javascript:void(0);" class="js-back-to-top back-to-top">Top</a>
     </footer>
+    </div>
 
 
 
@@ -519,6 +530,7 @@
 
         }
     </script>
+
 </body>
 <!-- END BODY -->
 

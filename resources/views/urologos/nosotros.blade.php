@@ -4,13 +4,16 @@
     <div class="content-lg container">
         <div class="row">
             <div class="col-lg-6">
-                <img src="https://lorempixel.com/600/300" class="img-fluid" alt="">
+                <img src="{{ asset('img/nosotros.jpeg') }}" class="img-fluid" alt="UROBAJ">
             </div>
             <div class="col-lg-6 pt-4 pt-lg-0">
-                <h2>Nosotros</h2>
+                <h1 align="center">Nosotros</h1><br><br>
                 <p align="justify">
-                    Urología del Bajío tiene presencia en las ciudades de Celaya y Querétaro brindando la misma calidad de servicio en cada una de nuestras unidades de atención, tratamos todas las enfermedades que tienen que ver con Urología.
+                    <strong>Urología del Bajío </strong> tiene presencia en las ciudades de <strong>Celaya y Querétaro </strong>
+                    brindando la misma calidad de servicio en cada una de nuestras unidades de atención, tratamos todas
+                    las enfermedades que tienen que ver con <strong>Urología.</strong>
                 </p>
+                <br><br>
 
                 <p align="justify">Ten la confianza que serás tratado por un equipo de profesionales en constante actualización y usando la mejor tecnología para regresar la salud y calidad de vida que buscas.
                 </p>
@@ -33,9 +36,10 @@
                     <!-- List -->
                     <ul class="list-unstyled footer-list">
 
-                        <li class="footer-list-item"><a href="https://www.facebook.com/urobaj/">Facebook</a></li>
-                        <li class="footer-list-item"><a href="#">Instagram</a></li>
-                        <li class="footer-list-item"><a href="#">YouTube</a></li>
+                        <li class="footer-list-item"><a href="https://www.facebook.com/urobaj/"><i class="fa fa-facebook-square" style="font-size:24px;color:  #3b5998"></i> Facebook</a></li>
+                        <li class="footer-list-item"><a href="#"><i class="fa fa-instagram" style="font-size:24px"></i> Instagram</a></li>
+                        <li class="footer-list-item"><a href="#"><i class="fa fa-youtube-square" style="font-size:24px;color:   #c4302b"></i> YouTube</a></li>
+
                     </ul>
                     <!-- End List -->
 

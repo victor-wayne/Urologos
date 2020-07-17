@@ -25,10 +25,10 @@ con gran sentido humano por lo cual a cada uno de sus pacientes brinda una atenc
 integral dentro de su consulta médica especializada.</p>
 <a class="link" onclick="mostrarCV();">Ver Curriculum</a>
                 <div class="social">
-                  <a href=""><i class="fab fa-twitter"></i></a>
-                  <a href=""><i class="fab fa-facebook"></i></a>
-                  <a href=""><i class="fab fa-instagram"></i></a>
-                  <a href=""> <i class="fab fa-linkedin"></i> </a>
+                  <a href="#"><i class="fab fa-twitter"></i></a>
+                  <a href="https://www.facebook.com/urobaj/"><i class="fab fa-facebook"></i></a>
+                  <a href="#"><i class="fab fa-instagram"></i></a>
+                  <a href="#"> <i class="fab fa-linkedin"></i> </a>
                 </div>
               </div>
             </div>
@@ -46,10 +46,10 @@ con gran sentido humano por lo cual a cada uno de sus pacientes brinda una atenc
 integral dentro de su consulta médica especializada.</p>
 <a class="link" onclick="mostrarCV();">Ver Curriculum</a>
                 <div class="social">
-                  <a href=""><i class="fab fa-twitter"></i></a>
-                  <a href=""><i class="fab fa-facebook"></i></a>
-                  <a href=""><i class="fab fa-instagram"></i></a>
-                  <a href=""> <i class="fab fa-linkedin"></i> </a>
+                  <a href="#"><i class="fab fa-twitter"></i></a>
+                  <a href="https://www.facebook.com/urobaj/"><i class="fab fa-facebook"></i></a>
+                  <a href="#"><i class="fab fa-instagram"></i></a>
+                  <a href="#"> <i class="fab fa-linkedin"></i> </a>
                 </div>
               </div>
             </div>
@@ -76,9 +76,9 @@ integral dentro de su consulta médica especializada.</p>
                     <!-- List -->
                     <ul class="list-unstyled footer-list">
 
-                        <li class="footer-list-item"><a href="https://www.facebook.com/urobaj/">Facebook</a></li>
-                        <li class="footer-list-item"><a href="#">Instagram</a></li>
-                        <li class="footer-list-item"><a href="#">YouTube</a></li>
+                        <li class="footer-list-item"><a href="https://www.facebook.com/urobaj/"><i class="fa fa-facebook-square" style="font-size:24px;color:  #3b5998"></i> Facebook</a></li>
+                        <li class="footer-list-item"><a href="#"><i class="fa fa-instagram" style="font-size:24px"></i> Instagram</a></li>
+                        <li class="footer-list-item"><a href="#"><i class="fa fa-youtube-square" style="font-size:24px;color:   #c4302b"></i> YouTube</a></li>
                     </ul>
                     <!-- End List -->
 
