@@ -10,12 +10,12 @@
             <div class="row margin-b-40">
                 <div class="col-sm-6">
                     <h2>Servicios</h2>
-                    <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed tempor incididunt ut laboret dolore magna aliqua enim minim veniam exercitation</p>
+                    <p align="justify" >Contamos con los servicios de Endourología, Oncología Urológica, Urología reconstructiva, Cirugía endoscópica de próstata.</p>
                 </div>
             </div>
             <!--// end row -->
-            <div class="row" style="display: flex;">
-                <div class="col-sm-3 ">
+            <div class="row" >
+                <div class="col-md-3 col-sm-3  col-xs-12">
                     <div class="col-sm-12 ">
                         <img class="img-responsive" src="{{ asset('img/970x647/endurologia.jpg') }}" alt="Latest Products Image">
                     </div>
@@ -31,7 +31,7 @@
                 </div>
 
 
-                <div class="col-sm-3 ">
+                <div class="col-md-3 col-sm-3  col-xs-12">
                     <div class="col-sm-12 ">
                         <img class="img-responsive" src="{{ asset('img/970x647/pr.jpeg') }}" alt="Latest Products Image">
                     </div>
@@ -48,7 +48,7 @@
 
                 </div>
 
-                <div class="col-sm-3">
+                <div class="col-md-3 col-sm-3  col-xs-12">
                     <div class="col-sm-12 ">
                         <img class="img-responsive" src="{{ asset('img/970x647/reconstruccion-uretra.jpg') }}" alt="Latest Products Image">
                     </div>
@@ -64,7 +64,7 @@
                 </div>
 
 
-                <div class="col-sm-3">
+                <div class="col-md-3 col-sm-3  col-xs-12">
                     <div class="col-sm-12 ">
                         <img class="img-responsive" src="{{ asset('img/970x647/endoscopia.jpg') }}" alt="Latest Products Image">
                     </div>

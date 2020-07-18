@@ -176,14 +176,14 @@
     <div id="products">
         <div class="content-lg container">
             <div class="row margin-b-40">
-                <div class="col-sm-6">
+                <div class="col-md-12">
                     <h2>Servicios</h2>
                     <p></p>
                 </div>
             </div>
             <!--// end row -->
-            <div class="row" style="display: flex;">
-                <div class="col-sm-3 ">
+            <div class="row">
+                <div class="col-md-3 col-sm-3  col-xs-12">
                     <div class="col-sm-12 ">
                         <img class="img-responsive" src="{{ asset('img/970x647/endurologia.jpg') }}" alt="Endurologia">
                     </div>
@@ -199,7 +199,7 @@
                 </div>
 
 
-                <div class="col-sm-3 ">
+                <div class="col-md-3 col-sm-3  col-xs-12">
                     <div class="col-sm-12 ">
                         <img class="img-responsive" src="{{ asset('img/970x647/pr.jpeg') }}" alt="Oncologia-urologica">
                     </div>
@@ -216,7 +216,7 @@
 
                 </div>
 
-                <div class="col-sm-3">
+                <div class="col-md-3 col-sm-3  col-xs-12">
                     <div class="col-sm-12 ">
                         <img class="img-responsive" src="{{ asset('img/970x647/reconstruccion-uretra.jpg') }}" alt="reconstruccion-de-la-uretra">
                     </div>
@@ -232,7 +232,7 @@
                 </div>
 
 
-                <div class="col-sm-3">
+                <div class="col-md-3 col-sm-3  col-xs-12">
                     <div class="col-sm-12 ">
                         <img class="img-responsive" src="{{ asset('img/970x647/endoscopia.jpg') }}" alt="endoscopia">
                     </div>

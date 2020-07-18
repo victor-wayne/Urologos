@@ -38,11 +38,20 @@
                             <div class="right">
                                 <h4 style="color:white;">Nuestra Información</h4>
                                 <div class="info d-flex align-items-center">
-                                    <i class="fa fa-map-marker" aria-hidden="true"></i>
-                                    <span>c - 165, Your Street Jaipur, <br>IN 91 554</span>
+                                    
+                        <p><strong>Direccion:</strong><br>Eje Nor-Poniente Manuel J. Clouthier 200 <br><strong>Colonia:</strong> Villas de la Hacienda <br><strong>Codigo Postal:</strong> 38020 </p>
+                        <ul class="list-unstyled contact-list">
+                            <li><i class="margin-r-10 color-base icon-call-out"></i> ‎+52 1 461 157 7585</li>
+                            <li><i class="margin-r-10 color-base icon-envelope"></i>contacto@urobaj.com</li>
+                            <li><i class="margin-r-10 color-base fas fa-map-marked-alt"></i>Celaya, Gto.</li>
+                        </ul>
+                    
+
+
                                 </div>
                                 <div class="map height-300">
-        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2724.0694570748947!2d7.455080415208266!3d46.94067397914616!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x478e39d0cf20e8d1%3A0x9daac4cd3043d067!2sThunstrasse+50%2C+3005+Bern%2C+Switzerland!5e0!3m2!1sen!2sin!4v1496749852928" width="100%" height="100%" frameborder="0" style="border:0" allowfullscreen=""></iframe>
+        
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d766.7210002843482!2d-100.84923868796812!3d20.52522380963124!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x842cbb03338e2401%3A0x700a5651d437b832!2sEje%20Nor-Poniente%20Manuel%20J.%20Clouthier%20200%2C%20Zona%20Industrial%2C%20Celaya%2C%20Gto.!5e0!3m2!1ses-419!2smx!4v1595098902231!5m2!1ses-419!2smx" width="100%" height="100%" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
     </div>
                               
                                 
