@@ -125,7 +125,7 @@
             <table border="0" cellpadding="0" cellspacing="0" width="100%" style="max-width: 600px;">
                 <tr>
                     <td bgcolor="#F1F1F1" align="center" valign="top" style="padding: 40px 20px 20px 20px; border-radius: 4px 4px 0px 0px; color: #111111; font-family: 'Lato', Helvetica, Arial, sans-serif; font-size: 48px; font-weight: 400; letter-spacing: 4px; line-height: 48px;">
-                        <h3 style="font-size: 38px; font-weight: 400; margin: 2;">Contacto Integraurobaj</h3> <img src="{{ asset('img/logo-integraurobaj.png') }}" width="125" height="120" style="display: block; border: 0px;" />
+                        <h3 style="font-size: 38px; font-weight: 400; margin: 2;">Contacto Integraurobaj</h3> <img src="http://integraurobaj.com.mx/img/logo-integraurobaj.png" width="325" height="120" style="display: block; border: 0px;" />
                     </td>
                 </tr>
             </table>
@@ -155,7 +155,7 @@
                 </tr> <!-- COPY -->
                 <tr>
                     <td bgcolor="#F1F1F1" align="left" style="padding: 0px 30px 20px 30px; color: #666666; font-family: 'Lato', Helvetica, Arial, sans-serif; font-size: 18px; font-weight: 400; line-height: 25px;">
-                        
+                        Por favor ponte en contacto con el.
                     </td>
                 </tr>
                 <tr>

@@ -19,10 +19,10 @@ class ContactoController extends Controller
     public function enviarCorreo(Request $request)
     {
 
-        $subject = "Asunto del correo";
-        $for = "beto_jpt@hotmail.com";
+        $subject = "Solicitud de Información desde el sitio web";
+        $for = "integraurobaj@gmail.com";
         Mail::send('urologos.email',$request->all(), function($msj) use($subject,$for){
-            $msj->from("iscalbertojimenez22@gmail.com","Contacto Sitio Web");
+            $msj->from("integraurobaj@gmail.com","Contacto Sitio Web");
             $msj->subject($subject);
             $msj->to($for);
         });
