@@ -153,7 +153,9 @@ function mostrarCV() {
                                   title: '<strong>Curriculum</strong>',
                         width: '90%',
                         heightAuto: true,
-                        html: '<embed src="{{ asset("docs/curriculum.pdf") }}" type="application/pdf" width="800px" height="500px" />',
+                        html: '<div class="embed-responsive embed-responsive-16by9">'+
+                              '<embed  class="embed-responsive-item" src="{{ asset("docs/curriculum.pdf") }}" type="application/pdf" width="800px" height="500px" />'+
+                              '</div>',
                         showCloseButton: true,
                         showCancelButton: false,
                         focusConfirm: false,
