@@ -13,7 +13,7 @@ profesionales de la salud en las que se incluyen Urólogos, Nutriólogos, Médic
         </div>
 <div class="row">
 
-          <div class="col-lg-5 margin-l-50">
+          <div class="col-lg-5 margin-l-30 xs-margin-b-10">
             <div class="member d-flex align-items-start aos-init aos-animate" data-aos="zoom-in" data-aos-delay="100">
               <div class="pic"><img src="{{asset('img/fdoctor.jpeg')}}" class="img-fluid" alt=""></div>
               <div class="member-info">
@@ -34,7 +34,7 @@ integral dentro de su consulta médica especializada.</p>
             </div>
           </div>
 
-          <div class="col-lg-5  margin-l-50">
+          <div class="col-lg-5  margin-l-30 xs-margin-b-10  hidden-xs">
             <div class="member d-flex align-items-start aos-init aos-animate" data-aos="zoom-in" data-aos-delay="100">
               <div class="pic"><img src="{{asset('img/fdoctor.jpeg')}}" class="img-fluid" alt=""></div>
               <div class="member-info">
