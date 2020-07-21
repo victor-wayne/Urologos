@@ -5,7 +5,7 @@ div.item.full-screen{
 }
 
 div.item.full-screen.blue{
-   background: linear-gradient(to right,#2551C1, #224086);
+   background-color: linear-gradient(to right,#2551C1, #224086);
 
 }
 
