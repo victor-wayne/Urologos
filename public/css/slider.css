@@ -5,18 +5,12 @@ div.item.full-screen{
 }
 
 div.item.full-screen.blue{
-  background-color: rgba(37,81,193,1)!important;
-background-color: -moz-linear-gradient(left, rgba(37,81,193,1) 0%, rgba(34,64,134,1) 100%)!important;
-background-color: -webkit-gradient(left top, right top, color-stop(0%, rgba(37,81,193,1)), color-stop(100%, rgba(34,64,134,1)))!important;
-background-color: -webkit-linear-gradient(left, rgba(37,81,193,1) 0%, rgba(34,64,134,1) 100%)!important;
-background-color: -o-linear-gradient(left, rgba(37,81,193,1) 0%, rgba(34,64,134,1) 100%)!important;
-background-color: -ms-linear-gradient(left, rgba(37,81,193,1) 0%, rgba(34,64,134,1) 100%)!important;
-background-color: linear-gradient(to right, rgba(37,81,193,1) 0%, rgba(34,64,134,1) 100%)!important;
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2551c1', endColorstr='#224086', GradientType=1 )!important;
+   background: linear-gradient(to right,#2551C1, #224086);
+
 }
 
 div.item.full-screen.blu{
-  background-color: #8CA8C1;
+  background-color: #84a9c3;
 }
 
 
