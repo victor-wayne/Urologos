@@ -19,6 +19,7 @@
     <link href="{{ asset('css/contacto.css') }}" rel="stylesheet" type="text/css"/>
     <link href="{{ asset('css/general.css') }}" rel="stylesheet" type="text/css"/>
     <link href="{{asset('fontawesome/css/all.css')}}" rel="stylesheet"> <!--load all styles -->
+    <link rel="stylesheet" href="{{asset('css/slider.css')}}">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
     <link rel="shortcut icon" href="favicon.ico"/>
@@ -106,7 +107,3 @@
     </div>
 </div>
 <!--========== SLIDER ==========-->
-
-
-
-
