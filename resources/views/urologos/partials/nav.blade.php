@@ -85,7 +85,7 @@
                 <div class="carousel-centered">
                     <div class="margin-b-40">
                         <h1 class="carousel-title">INTEGRAUROBAJ</h1>
-                        <p class="color-white">En Urobaj cada día nos esforzamos por llevar la mejor calidad a cada uno de los  <br/>pacientes que nos visitan por lo que estamos en constante actualización.</p>
+                        <p class="color-white mi-caro">En Urobaj cada día nos esforzamos por llevar la mejor calidad a cada uno de los  <br/>pacientes que nos visitan por lo que estamos en constante actualización.</p>
                     </div>
 
                     <a href="https://api.whatsapp.com/send?phone=524612541789&text=Hola INTEGRAUROBAJ me interesan tus servicios " class="btn-theme btn-theme-sm btn-white-brd text-uppercase">WhatsApp</a>
@@ -98,7 +98,7 @@
                 <div class="carousel-centered">
                     <div class="margin-b-40">
                         <h2 class="carousel-title"></h2>
-                        <p class="color-white"> <br/> </p>
+                        <p class="color-white mi-caro"> <br/> </p>
                     </div><br><br><br><br>
                     <a href="https://api.whatsapp.com/send?phone=524612541789&text=Hola INTEGRAUROBAJ me interesan tus servicios " class="btn-theme btn-theme-sm btn-white-brd text-uppercase">WhatsApp</a>
                 </div>
