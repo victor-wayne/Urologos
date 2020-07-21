@@ -4,17 +4,32 @@ div.item.full-screen{
   background-size: contain!important;
 }
 
+div.item.full-screen.blue{
+  background-color: #365AAC;
+}
+
+div.item.full-screen.blu{
+  background-color: #7DB4D5;
+}
+
+
+
+
 @media only screen and (max-width: 600px) {
   .carousel-title {
-    font-size: 12px!important;
+    font-size: 20px!important;
     font-weight: 600;
     color: #fff;
     line-height: 1.1;
     text-transform: uppercase;
   }
+  .carousel-centered {
+
+    top: 45%!important;
+  }
 
   .mi-caro{
-    font-size: 6px!important;
+    font-size: 14px!important;
     text-align:justify;
   }
 

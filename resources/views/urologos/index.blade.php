@@ -75,7 +75,7 @@
         </div>
 
         <div class="carousel-inner" role="listbox">
-            <div class="item active">
+            <div class="item blue active">
                 <img class="img-responsive" src="{{asset('img/1920x1080/urologia.jpeg')}}" style="height: 100%; width: 100%; object-fit: contain;" alt="urobaj">
                 <div class="container">
                     <div class="carousel-centered">
@@ -87,7 +87,7 @@
                     </div>
                 </div>
             </div>
-            <div class="item">
+            <div class="item blu">
                 <img class="img-responsive" src="{{ asset('img/1920x1080/dr-aboytes.jpeg') }}" style="height: 100%; width: 100%; object-fit: contain;" alt="urologo-dr-ernesto-aboytes">
                 <div class="container">
                     <div class="carousel-centered">
