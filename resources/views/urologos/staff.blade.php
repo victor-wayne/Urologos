@@ -155,8 +155,8 @@ function mostrarCV() {
                         heightAuto: true,
                         html: '<div class="embed-responsive embed-responsive-16by9">'+
                               '<object class="embed-responsive-item" data="{{ asset("docs/curriculum.pdf") }}" type="application/pdf" internalinstanceid="9" title="">'+
-                              '<p>Su navedador no soporta el PLUGIN de PDF para ver el archivo da click'+
-                              '<a href="{{ asset("docs/curriculum.pdf") }}"> Aquí</a>.</p>'+
+                              '<p>Su navedador no soporta el PLUGIN de PDF para descargar el archivo da click'+
+                              '<a target="_blank" href="{{ asset("docs/curriculum.pdf") }}"> Aquí</a>.</p>'+
                               '</object>'+
                               '</div>',
                         showCloseButton: true,
