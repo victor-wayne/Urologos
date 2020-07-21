@@ -55,11 +55,11 @@ integral dentro de su consulta médica especializada.</p>
             </div>
           </div>
 
-          
 
-          
 
-        
+
+
+
 
         </div>
         </section>
@@ -146,15 +146,15 @@ integral dentro de su consulta médica especializada.</p>
 <script>
 function mostrarCV() {
 
-                                    
-        
+
+
 
                                 Swal.fire({
                                   title: '<strong>Curriculum</strong>',
                         width: '90%',
                         heightAuto: true,
                         html: '<div class="embed-responsive embed-responsive-16by9">'+
-                              '<embed  class="embed-responsive-item" src="{{ asset("docs/curriculum.pdf") }}" type="application/pdf" width="800px" height="500px" />'+
+                              '<embed  class="embed-responsive-item" src="{{ asset("docs/curriculum.pdf") }}" type="application/pdf"  />'+
                               '</div>',
                         showCloseButton: true,
                         showCancelButton: false,
