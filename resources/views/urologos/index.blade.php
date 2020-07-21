@@ -16,6 +16,7 @@
     <link href="{{ asset('css/animate.css') }}" rel="stylesheet">
     <link href="{{ asset('vendor/swiper/css/swiper.min.css') }}" rel="stylesheet" type="text/css" />
     <link href="{{ asset('css/layout.min.css') }}" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="{{asset('css/slider.css')}}">
     <link rel="icon" href="{{ asset('img/logo-integraurobaj.png') }}" type="image/png" />
 
 </head>
