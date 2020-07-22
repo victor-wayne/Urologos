@@ -1,28 +1,25 @@
 
-
-div.item.full-screen{
-  background-size: contain!important;
-}
-
-div.item.full-screen.blue{
-   background-color: linear-gradient(to right,#2551C1, #224086);
-
-}
-
-div.item.full-screen.blu{
-  background-color: #84a9c3;
-}
-
-
-
-
 @media only screen and (max-width: 600px) {
+  div.item.full-screen{
+    background-size: contain!important;
+  }
+
+
+  div.item.full-screen.blu{
+    background-color: #84a9c3;
+  }
+  
   .carousel-title {
     font-size: 20px!important;
     font-weight: 600;
     color: #fff;
     line-height: 1.1;
     text-transform: uppercase;
+  }
+
+  div.item.full-screen.blue{
+     background: url("IMAGE_URL") no-repeat, linear-gradient(to right,#2551C1, #224086);
+
   }
   .carousel-centered {
 
