@@ -79,9 +79,9 @@
                 <img class="img-responsive" src="{{asset('img/1920x1080/urologia.jpeg')}}" style="height: 100%; width: 100%; object-fit: contain;" alt="urobaj">
                 <div class="container">
                     <div class="carousel-centered">
-                        <div class="margin-b-40">
-                            <h1 class="carousel-title">INTEGRAUROBAJ</h1>
-                            <p class="color-white">En Urobaj cada día nos esforzamos por llevar la mejor calidad a cada uno de los  <br/>pacientes que nos visitan por lo que estamos en constante actualización.</p>
+                        <div class="">
+                            <h1 class="carousel-title margin-b-40">INTEGRAUROBAJ</h1>
+                            <p class="color-white margin-r-10" align="justify">En Urobaj cada día nos esforzamos por llevar la mejor calidad a cada uno de los  <br/>pacientes que nos visitan por lo que estamos en constante actualización.</p>
                         </div>
                         <a href="https://api.whatsapp.com/send?phone=524612541789&text=Hola INTEGRAUROBAJ me interesan tus servicios " class="btn-theme btn-theme-sm btn-white-brd text-uppercase">WhatsApp</a>
                     </div>

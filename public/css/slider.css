@@ -8,7 +8,7 @@
   div.item.full-screen.blu{
     background-color: #84a9c3;
   }
-  
+
   .carousel-title {
     font-size: 20px!important;
     font-weight: 600;
@@ -18,9 +18,16 @@
   }
 
   div.item.full-screen.blue{
-     background: url("IMAGE_URL") no-repeat, linear-gradient(to right,#2551C1, #224086);
+    background: rgb(41,90,178);
+    background-image: url("/img/1920x1080/movil.jpeg")!important;
+
 
   }
+
+  .carousel-title.margin-b-40 {
+    margin-bottom: 140px!important;
+}
+
   .carousel-centered {
 
     top: 45%!important;
