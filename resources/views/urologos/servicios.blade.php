@@ -17,7 +17,7 @@
             <div class="row" >
                 <div class="col-md-3 col-sm-3  col-xs-12">
                     <div class="col-sm-12 ">
-                        <img class="img-responsive" src="{{ asset('img/970x647/endurologia.jpg') }}" alt="Latest Products Image">
+                        <img class="img-responsive" src="{{ asset('img/970x647/endurologia1.jpeg') }}" alt="Latest Products Image">
                     </div>
                     <div class="col-sm-12 margin-t-10 " style=" min-height: 75px;">
                         <h4><a href="#">Endourología</a></h4>
@@ -66,7 +66,7 @@
 
                 <div class="col-md-3 col-sm-3  col-xs-12">
                     <div class="col-sm-12 ">
-                        <img class="img-responsive" src="{{ asset('img/970x647/endoscopia.jpg') }}" alt="Latest Products Image">
+                        <img class="img-responsive" src="{{ asset('img/970x647/endoscopia1.jpeg') }}" alt="Latest Products Image">
                     </div>
                     <div class="col-sm-12 margin-t-10" style=" min-height: 50px;">
                         <h4><a href="#">Cirugía endoscópica de próstata</a> </h4>
@@ -180,7 +180,7 @@
                         width: '90%',
                         heightAuto: true,
                         html: '<div class="row">' +
-                            '<div class = "col-md-6 "><img class="img-responsive" src="' + "{{asset('img/970x647/endurologia.jpg')}}" + '" width="435px" alt="Latest Products Image">' +
+                            '<div class = "col-md-6 "><img class="img-responsive" src="' + "{{asset('img/970x647/endurologia1.jpeg')}}" + '" width="435px" alt="Latest Products Image">' +
                             ' </div> <div class = "col-md-5" >' +
                             '<p align = "justify" > Es una técnica de mínima invasión con la cual podemos tratar enfermedades del tracto urinario vía endoscópica, desde la uretra hasta el riñón. </p>' +
                             '<ul align="justify"> <li><strong> Nefrolitotricia percutáneas:</strong> En este procedimiento realizamos una pequeña incisión en la espalda para poder extraer cálculos renales,' +
@@ -249,7 +249,7 @@
                         width: '90%',
                         heightAuto: true,
                         html: '<div class="row">' +
-                            '<div class = "col-md-6 "><img class="img-responsive" src="' + "{{ asset('img/970x647/endoscopia.jpg') }}" + '" width="435px" alt="Latest Products Image">' +
+                            '<div class = "col-md-6 "><img class="img-responsive" src="' + "{{ asset('img/970x647/endoscopia1.jpeg') }}" + '" width="435px" alt="Latest Products Image">' +
                             ' </div> <div class = "col-md-5" >' +
                             '<p align = "justify" > Usando la mejor tecnología para brindarte una pronta recuperación. </p>' +
                             '<ul align="justify">' +
