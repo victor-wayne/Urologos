@@ -78,7 +78,7 @@ integral dentro de su consulta médica especializada.</p>
 
                         <li class="footer-list-item"><a href="https://www.facebook.com/urobaj/"><i class="fa fa-facebook-square" style="font-size:24px;color:  #3b5998"></i> Facebook</a></li>
                         <li class="footer-list-item"><a href="#"><i class="fa fa-instagram" style="font-size:24px"></i> Instagram</a></li>
-                        <li class="footer-list-item"><a href="#"><i class="fa fa-youtube-square" style="font-size:24px;color:   #c4302b"></i> YouTube</a></li>
+                        <li class="footer-list-item"><a href="https://www.youtube.com/channel/UCJJAAJrMDmwMwXiElqbOiZg?disable_polymer=true"><i class="fa fa-youtube-square" style="font-size:24px;color:   #c4302b"></i> YouTube</a></li>
                     </ul>
                     <!-- End List -->
 

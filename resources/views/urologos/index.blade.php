@@ -265,30 +265,24 @@
                 <div class="masonry-grid-sizer col-xs-6 col-sm-6 col-md-1"></div>
                 <div class="masonry-grid-item col-xs-12 col-sm-6 col-md-4 sm-margin-b-30">
                     <div class="margin-b-60">
-                        <h2>Cáncer de Próstata</h2>
+                        <h2 align="center">Cáncer de Próstata</h2>
                     </div>
-                    <a href="https://www.youtube.com/watch?v=y6prS56uOw8&feature=youtu.be" class="portfolio-popup" title="Cáncer de Próstata">
-                        <img class="full-width img-responsive wow fadeInUp" src="{{ asset('img/500x500/urobaj-youtube.jpeg') }}" alt="cancer-de-prostata" data-wow-duration=".3" data-wow-delay=".2s">
-                    </a>
+
+                    <iframe class="col-md-pull-12" width="100%" height="315" src="https://www.youtube.com/embed/y6prS56uOw8" frameborder="0" allow="autoplay; encrypted-media"></iframe>
                 </div>
 
                 <div class="masonry-grid-item col-xs-12 col-sm-6 col-md-4">
                     <div class="margin-b-60">
-                        <h2>Cálculos Renales</h2>
-
+                        <h2 align="center">Cálculos Renales</h2>
                     </div>
-                    <a href="https://www.youtube.com/watch?v=twV0CSmhH9Y&feature=youtu.be" class="portfolio-popup" title="Pediatra">
-
-                        <img class="full-width img-responsive wow fadeInUp" src="{{ asset('img/500x500/urobaj-youtube.jpeg') }}" alt="Calculos-Renales" data-wow-duration=".3" data-wow-delay=".3s">
-                    </a>
+                    <iframe class="col-md-pull-12" width="100%" height="315" src="https://www.youtube.com/embed/twV0CSmhH9Y" frameborder="0" allow="autoplay; encrypted-media"></iframe>
                 </div>
 
                 <div class="masonry-grid-item col-xs-12 col-sm-6 col-md-4">
                     <div class="margin-t-60 margin-b-60">
-                        <h2>Siguenos en YouTube</h2>
-
+                        <h2 align="center">Siguenos en YouTube</h2>
                     </div>
-                    <img class="full-width img-responsive wow fadeInUp" src="{{ asset('img/500x500/urobaj-youtube.jpeg') }}" alt="dr-ernesto-aboytes" data-wow-duration=".3" data-wow-delay=".4s">
+                    <iframe class="col-md-pull-12" width="100%" height="315" src="https://www.youtube.com/embed/y6prS56uOw8" frameborder="0" allow="autoplay; encrypted-media"></iframe>
                 </div>
             </div>
             <!-- End Masonry Grid -->
@@ -364,7 +358,7 @@
                         <ul class="list-unstyled footer-list">
                             <li class="footer-list-item"><a href="https://www.facebook.com/urobaj/"><i class="fa fa-facebook-square" style="font-size:24px;color:  #3b5998"></i> Facebook</a></li>
                             <li class="footer-list-item"><a href="#"><i class="fa fa-instagram" style="font-size:24px"></i> Instagram</a></li>
-                            <li class="footer-list-item"><a href="#"><i class="fa fa-youtube-square" style="font-size:24px;color:   #c4302b"></i> YouTube</a></li>
+                            <li class="footer-list-item"><a href="https://www.youtube.com/channel/UCJJAAJrMDmwMwXiElqbOiZg?disable_polymer=true"><i class="fa fa-youtube-square" style="font-size:24px;color:   #c4302b"></i> YouTube</a></li>
 
                         </ul>
                         <!-- End List -->
