@@ -1,16 +1,17 @@
 
+
 @media only screen and (max-width: 600px) {
   div.item.full-screen{
     background-size: contain!important;
   }
 
-
-  div.item.full-screen.blu{
-    background-color: #84a9c3;
+  p.color-white.margin-r-10{
+    color: #185EAD!important;
   }
 
   .carousel-title {
-    font-size: 20px!important;
+    color: #185EAD!important;
+    font-size: 30px!important;
     font-weight: 600;
     color: #fff;
     line-height: 1.1;
@@ -18,8 +19,17 @@
   }
 
   div.item.full-screen.blue{
-    background: rgb(41,90,178);
-    background-image: url("/img/1920x1080/movil.jpeg")!important;
+    background-color:white;
+
+    background-image: url("/img/1920x1080/movil1.jpeg")!important;
+
+
+  }
+
+  div.item.full-screen.blu{
+    background-color: #84a9c3;
+
+    background-image: url("/img/1920x1080/movil2.jpeg")!important;
 
 
   }
