@@ -6,7 +6,7 @@
 <section class="contact section-seperator team" id="contact">
 
 <div class="section-title">
-          <h2>Staff Medico</h2>
+          <h2>Staff Médico</h2>
           <p class="equipo">En Urobaj cada día nos esforzamos por llevar la mejor calidad a cada uno de los pacientes
 que nos visitan por lo que estamos en constante actualización, contamos con un equipo de
 profesionales de la salud en las que se incluyen Urólogos, Nutriólogos, Médicos Internistas.</p>

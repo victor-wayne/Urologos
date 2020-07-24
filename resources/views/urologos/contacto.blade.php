@@ -7,13 +7,13 @@
             <div class="container">
                 <div class="heading text-center wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">
                     <h2>
-                    Mantente en Contacto</h2>
+                    Manténte en Contacto</h2>
                     <p>Mandanos correo y resuelve todas tus dudas.</p>
                 </div>
                 <div class="main wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">
                     <div class="row">
                         <div class="col-lg-7 left">
-                            <h3>Contactanos</h3>
+                            <h3>Contáctanos</h3>
 
                             <form id="fContacto" name="fContacto">
                                 <div class="row">
@@ -30,7 +30,7 @@
                                 <div class="form-group">
                                     <textarea class="form-control required"  rows="10" id="iComentario" name="iComentario" placeholder="Mensaje"></textarea>
                                 </div>
-                                <button class="btn btn-block"  type="submit">Envar ahora!</button>
+                                <button class="btn btn-block"  type="submit">Enviar ahora!</button>
                             </form>
                         </div>
                         <!-- Left -->

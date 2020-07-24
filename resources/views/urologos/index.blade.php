@@ -81,9 +81,10 @@
                     <div class="carousel-centered">
                         <div class="">
                             <h1 class="carousel-title margin-b-40">INTEGRAUROBAJ</h1>
-                            <p class="color-white margin-r-10" align="justify">En Urobaj cada día nos esforzamos por llevar la mejor calidad a cada uno de los  <br/>pacientes que nos visitan por lo que estamos en constante actualización.</p>
+                            <p class="color-white margin-r-10" align="justify">En Urobaj cada día nos esforzamos por llevar la mejor calidad a cada uno de los pacientes <br>que nos visitan por lo que estamos en constante actualización.</p>
+                            <p class="color-white margin-r-10" align="justify">Cuestionario para revisar la salud de tu Prostata  </p>
                         </div>
-                        <a href="https://api.whatsapp.com/send?phone=524612541789&text=Hola INTEGRAUROBAJ me interesan tus servicios " class="btn-theme btn-theme-sm btn-white-brd text-uppercase">WhatsApp</a>
+                        <a href="" class="btn-theme btn-theme-sm btn-white-brd text-uppercase">WhatsApp</a>
                     </div>
                 </div>
             </div>
@@ -144,7 +145,7 @@
                                     </div>
                                     <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
                                         <div class="panel-body">
-                                            Contamos con Staff Médico para atender tus necesidades Urólogos, Nutriólogos, Médicos Internistas.
+                                            Contamos con Staff: Médico para atender tus necesidades Urólogos, Nutriólogos, Médicos Internistas.
                                         </div>
                                     </div>
                                 </div>
@@ -313,7 +314,7 @@
                     <!-- Contact List -->
                     <div class="col-sm-4 sm-margin-b-50">
                         <h3><a href="#">Celaya, GTO</a> <span class="text-uppercase margin-l-20">Consultorio</span></h3>
-                        <p><strong>Direccion:</strong><br>Hospital San José <br><strong>Colonia:</strong> Villas de la Hacienda <br><strong>Codigo Postal:</strong> 38020 </p>
+                        <p><strong>Direccion:</strong><br>Hospital San José <br><strong>Consultorio:</strong> 713<br><strong>Colonia:</strong> Villas de la Hacienda <br><strong>Codigo Postal:</strong> 38020 </p>
                         <ul class="list-unstyled contact-list">
                             <li><i class="margin-r-10 color-base icon-call-out"></i> ‎+52 1 461 157 7585</li>
                             <li><i class="margin-r-10 color-base icon-envelope"></i>contacto@urobaj.com</li>
@@ -324,7 +325,7 @@
                     <!-- Contact List -->
                     <div class="col-sm-4 sm-margin-b-50">
                         <h3><a href="#">Querétaro </a> <span class="text-uppercase margin-l-20">Consultorio</span></h3>
-                        <p><strong>Direccion:</strong><br> Hospital Tec 100, Privada Ignacio Zaragoza 16-B <br><strong>Colonia:</strong> Centro <br><strong>Codigo Postal:</strong> 76000 </p>
+                        <p><strong>Direccion:</strong><br> Hospital Torre Médica 3, Privada Ignacio Zaragoza 16-B <br><strong>Consultorio:</strong> 508<br><strong>Colonia:</strong> Centro <br><strong>Codigo Postal:</strong> 76000 </p>
                         <ul class="list-unstyled contact-list">
                             <li><i class="margin-r-10 color-base icon-call-out"></i> ‎+52 1 461 157 7585</li>
                             <li><i class="margin-r-10 color-base icon-envelope"></i>contacto@urobaj.com</li>
