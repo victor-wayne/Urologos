@@ -82,9 +82,9 @@
                         <div class="">
                             <h1 class="carousel-title margin-b-40">INTEGRAUROBAJ</h1>
                             <p class="color-white margin-r-10" align="justify">En Urobaj cada día nos esforzamos por llevar la mejor calidad a cada uno de los pacientes <br>que nos visitan por lo que estamos en constante actualización.</p>
-                            <p class="color-white margin-r-10" align="justify">Cuestionario para revisar la salud de tu Prostata  </p>
+                            <p class="color-white margin-r-10" align="justify">Cuestionario para revisar la salud de tu Próstata  </p>
                         </div>
-                        <a href="" class="btn-theme btn-theme-sm btn-white-brd text-uppercase">WhatsApp</a>
+                        <a href="" class="btn-theme btn-theme-sm btn-white-brd text-uppercase">Cuestionario</a>
                     </div>
                 </div>
             </div>
