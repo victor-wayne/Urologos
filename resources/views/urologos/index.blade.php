@@ -303,17 +303,6 @@
                     <!-- Contact List -->
                     <div class="col-sm-4 sm-margin-b-50">
                         <h3><a href="#">Celaya, GTO</a> <span class="text-uppercase margin-l-20">Consultorio</span></h3>
-                        <p><strong>Direccion:</strong><br>Eje Nor-Poniente Manuel J. Clouthier 200 <br><strong>Colonia:</strong> Villas de la Hacienda <br><strong>Codigo Postal:</strong> 38020 </p>
-                        <ul class="list-unstyled contact-list">
-                            <li><i class="margin-r-10 color-base icon-call-out"></i> ‎+52 1 461 157 7585</li>
-                            <li><i class="margin-r-10 color-base icon-envelope"></i>contacto@urobaj.com</li>
-                        </ul>
-                    </div>
-                    <!-- End Contact List -->
-
-                    <!-- Contact List -->
-                    <div class="col-sm-4 sm-margin-b-50">
-                        <h3><a href="#">Celaya, GTO</a> <span class="text-uppercase margin-l-20">Consultorio</span></h3>
                         <p><strong>Direccion:</strong><br>Hospital San José <br><strong>Consultorio:</strong> 713<br><strong>Colonia:</strong> Villas de la Hacienda <br><strong>Codigo Postal:</strong> 38020 </p>
                         <ul class="list-unstyled contact-list">
                             <li><i class="margin-r-10 color-base icon-call-out"></i> ‎+52 1 461 157 7585</li>
