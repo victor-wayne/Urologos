@@ -89,7 +89,7 @@
                         <p class="color-white margin-r-10" align="justify">Cuestionario para revisar la salud de tu Próstata  </p>
                     </div>
 
-                    <a href="https://api.whatsapp.com/send?phone=524612541789&text=Hola INTEGRAUROBAJ me interesan tus servicios " class="btn-theme btn-theme-sm btn-white-brd text-uppercase">WhatsApp</a>
+                    <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAN__jI22vdUMERYM0Q1OEJMQzFWTExFT1hPTzAwMTY2OC4u" class="btn-theme btn-theme-sm btn-white-brd text-uppercase">Cuestionario</a>
                 </div>
             </div>
         </div>

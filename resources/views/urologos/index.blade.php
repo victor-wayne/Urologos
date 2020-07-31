@@ -84,7 +84,7 @@
                             <p class="color-white margin-r-10" align="justify">En Urobaj cada día nos esforzamos por llevar la mejor calidad a cada uno de los pacientes <br>que nos visitan por lo que estamos en constante actualización.</p>
                             <p class="color-white margin-r-10" align="justify">Cuestionario para revisar la salud de tu Próstata  </p>
                         </div>
-                        <a href="" class="btn-theme btn-theme-sm btn-white-brd text-uppercase">Cuestionario</a>
+                        <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAN__jI22vdUMERYM0Q1OEJMQzFWTExFT1hPTzAwMTY2OC4u" class="btn-theme btn-theme-sm btn-white-brd text-uppercase">Cuestionario</a>
                     </div>
                 </div>
             </div>
