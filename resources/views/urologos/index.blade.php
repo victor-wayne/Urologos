@@ -86,7 +86,7 @@
                             <p class="color-nuevo-color margin-r-10" align="justify">En Urobaj cada día nos esforzamos por llevar la mejor calidad a cada uno de los pacientes <br>que nos visitan por lo que estamos en constante actualización.</p>
                             <p class="color-nuevo-color margin-r-10" align="justify">Cuestionario para revisar la salud de tu Próstata  </p>
                         </div>
-                        <a class="color-nuevo-color" href="https://forms.gle/x8TnAugU3VD3Wpx66" class="btn-theme btn-theme-sm btn-white-brd text-uppercase">Cuestionario</a>
+                        <a class="mi-boton guats" href="https://forms.gle/x8TnAugU3VD3Wpx66" class="btn-theme btn-theme-sm btn-white-brd text-uppercase">Cuestionario</a>
                     </div>
                 </div>
             </div>
@@ -98,7 +98,7 @@
                             <h2 class="carousel-title color-nuevo-color"></h2>
                             <p class="color-nuevo-color"> <br/> </p>
                         </div><br><br><br><br>
-                        <a class="color-nuevo-color" href="https://api.whatsapp.com/send?phone=524612541789&text=Hola INTEGRAUROBAJ me interesan tus servicios " class="btn-theme btn-theme-sm btn-white-brd text-uppercase">WhatsApp</a>
+                        <a class="mi-boton guats" href="https://api.whatsapp.com/send?phone=524612541789&text=Hola INTEGRAUROBAJ me interesan tus servicios " class="btn-theme btn-theme-sm btn-white-brd text-uppercase">WhatsApp</a>
                     </div>
                 </div>
             </div>
