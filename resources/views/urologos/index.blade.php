@@ -16,6 +16,7 @@
     <link href="{{ asset('css/animate.css') }}" rel="stylesheet">
     <link href="{{ asset('vendor/swiper/css/swiper.min.css') }}" rel="stylesheet" type="text/css" />
     <link href="{{ asset('css/layout.min.css') }}" rel="stylesheet" type="text/css" />
+    <link href="{{ asset('css/home.css') }}" rel="stylesheet" type="text/css" />
     <link rel="stylesheet" href="{{asset('css/slider.css')}}">
     <link rel="icon" href="{{ asset('img/logo-integraurobaj.png') }}" type="image/png" />
 
@@ -53,12 +54,12 @@
 
                     <div class="menu-container">
                         <ul class="nav navbar-nav navbar-nav-right">
-                            <li class="js_nav-item nav-item"><a class="nav-item-child nav-item-hover" href="{{ route('home') }}">Inicio</a></li>
-                            <li class="js_nav-item nav-item"><a class="nav-item-child nav-item-hover" href="{{ route('nosotros') }}">Nosotros</a></li>
-                            <li class="js_nav-item nav-item"><a class="nav-item-child nav-item-hover" href="{{ route('staff') }}">Staff Médico</a></li>
-                            <li class="js_nav-item nav-item"><a class="nav-item-child nav-item-hover" href="{{ route('servicios') }}">Servicios</a></li>
-                            <li class="js_nav-item nav-item"><a class="nav-item-child nav-item-hover" href="https://forms.gle/x8TnAugU3VD3Wpx66">Test Prostático</a></li>
-                            <li class="js_nav-item nav-item"><a class="nav-item-child nav-item-hover" href="{{ route('contacto') }}">Contacto</a></li>
+                            <li class="js_nav-item nav-item"><a class="nav-item-child color-nuevo-color nav-item-hover" href="{{ route('home') }}">Inicio</a></li>
+                            <li class="js_nav-item nav-item"><a class="nav-item-child color-nuevo-color nav-item-hover" href="{{ route('nosotros') }}">Nosotros</a></li>
+                            <li class="js_nav-item nav-item"><a class="nav-item-child color-nuevo-color nav-item-hover" href="{{ route('staff') }}">Staff Médico</a></li>
+                            <li class="js_nav-item nav-item"><a class="nav-item-child color-nuevo-color nav-item-hover" href="{{ route('servicios') }}">Servicios</a></li>
+                            <li class="js_nav-item nav-item"><a class="nav-item-child color-nuevo-color nav-item-hover" href="https://forms.gle/x8TnAugU3VD3Wpx66">Test Prostático</a></li>
+                            <li class="js_nav-item nav-item"><a class="nav-item-child color-nuevo-color nav-item-hover" href="{{ route('contacto') }}">Contacto</a></li>
 
                         </ul>
                     </div>
@@ -81,23 +82,22 @@
                 <div class="container">
                     <div class="carousel-centered">
                         <div class="">
-                            <h1 class="carousel-title margin-b-40">INTEGRAUROBAJ</h1>
-                            <p class="color-white margin-r-10" align="justify">En Urobaj cada día nos esforzamos por llevar la mejor calidad a cada uno de los pacientes <br>que nos visitan por lo que estamos en constante actualización.</p>
-                            <p class="color-white margin-r-10" align="justify">Cuestionario para revisar la salud de tu Próstata  </p>
+                            <p class="color-nuevo-color margin-r-10" align="center">En Urobaj cada día nos esforzamos por llevar la mejor calidad a cada uno de los pacientes <br>que nos visitan por lo que estamos en constante actualización.</p>
+                            <p class="color-nuevo-color margin-r-10" align="justify">Cuestionario para revisar la salud de tu Próstata  </p>
                         </div>
-                        <a href="https://forms.gle/x8TnAugU3VD3Wpx66" class="btn-theme btn-theme-sm btn-white-brd text-uppercase">Cuestionario</a>
+                        <a class="mi-boton guats" href="https://forms.gle/x8TnAugU3VD3Wpx66" class="btn-theme btn-theme-sm btn-white-brd text-uppercase">Cuestionario</a>
                     </div>
                 </div>
             </div>
-            <div class="item blu">
+            <div class="item blu ">
                 <img class="img-responsive" src="{{ asset('img/1920x1080/banner1.jpeg') }}" style="height: 100%; width: 100%; object-fit: contain;" alt="urologo-dr-ernesto-aboytes">
                 <div class="container">
                     <div class="carousel-centered">
                         <div class="margin-b-40">
-                            <h2 class="carousel-title"></h2>
-                            <p class="color-white"> <br/> </p>
+                            <h2 class="carousel-title color-nuevo-color"></h2>
+                            <p class="color-nuevo-color"> <br/> </p>
                         </div><br><br><br><br>
-                        <a href="https://api.whatsapp.com/send?phone=524612541789&text=Hola INTEGRAUROBAJ me interesan tus servicios " class="btn-theme btn-theme-sm btn-white-brd text-uppercase">WhatsApp</a>
+                        <a class="mi-boton guats" href="https://api.whatsapp.com/send?phone=524612541789&text=Hola INTEGRAUROBAJ me interesan tus servicios " class="btn-theme btn-theme-sm btn-white-brd text-uppercase">Conctacta via WhatsApp</a>
                     </div>
                 </div>
             </div>
