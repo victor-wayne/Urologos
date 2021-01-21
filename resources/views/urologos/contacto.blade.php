@@ -46,9 +46,8 @@
                             <li><i class="margin-r-10 color-base fas fa-map-marked-alt"></i>Celaya, Gto.</li>
                         </ul>
                     
-
-
                                 </div>
+
                                 <div class="map height-300">
         
             <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d766.7210002843482!2d-100.84923868796812!3d20.52522380963124!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x842cbb03338e2401%3A0x700a5651d437b832!2sEje%20Nor-Poniente%20Manuel%20J.%20Clouthier%20200%2C%20Zona%20Industrial%2C%20Celaya%2C%20Gto.!5e0!3m2!1ses-419!2smx!4v1595098902231!5m2!1ses-419!2smx" width="100%" height="100%" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
@@ -59,7 +58,10 @@
                         </div>
                     </div>
                 </div>
+               <hr>
+                <a id="zl-url" class="zl-url" href="https://www.doctoralia.com.mx/ernesto-antonio-aboytes-velazquez/sexologo-urologo/celaya" rel="nofollow" data-zlw-doctor="ernesto-antonio-aboytes-velazquez" data-zlw-type="big_with_calendar" data-zlw-opinion="false" data-zlw-hide-branding="true">Ernesto Antonio Aboytes Velazquez - Doctoralia.com.mx</a><script>!function($_x,_s,id){var js,fjs=$_x.getElementsByTagName(_s)[0];if(!$_x.getElementById(id)){js = $_x.createElement(_s);js.id = id;js.src = "//platform.docplanner.com/js/widget.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","zl-widget-s");</script>
             </div>
+
             
         </section>
 
